@@ -1,0 +1,1471 @@
+EmployeeID,Age,Gender,Marital_Status,Monthly_Income,Age_Group,Income_Bracket,Work_Life_Balance,Distance_From_Home,Education,Education_Field,Years_At_Company
+1,41,Female,Single,5993,Senior,Medium,1,1,2,"Life Sciences",6
+2,49,Male,Married,5130,Senior,Medium,3,8,1,"Life Sciences",10
+4,37,Male,Single,2090,Senior,Low,3,2,2,Other,0
+5,33,Female,Married,2909,Mid,Low,3,3,4,"Life Sciences",8
+7,27,Male,Married,3468,Mid,Low,3,2,1,Medical,2
+8,32,Male,Single,3068,Mid,Low,2,2,2,"Life Sciences",7
+10,59,Female,Married,2670,Veteran,Low,2,3,3,Medical,1
+11,30,Male,Divorced,2693,Mid,Low,3,24,1,"Life Sciences",1
+12,38,Male,Single,9526,Senior,Medium,3,23,3,"Life Sciences",9
+13,36,Male,Married,5237,Senior,Medium,2,27,3,Medical,7
+14,35,Male,Married,2426,Mid,Low,3,16,3,Medical,5
+15,29,Female,Single,4193,Mid,Low,3,15,2,"Life Sciences",9
+16,31,Male,Divorced,2911,Mid,Low,2,26,1,"Life Sciences",5
+18,34,Male,Divorced,2661,Mid,Low,3,19,2,Medical,2
+19,28,Male,Single,2028,Mid,Low,3,24,3,"Life Sciences",4
+20,29,Female,Divorced,9980,Mid,Medium,3,21,4,"Life Sciences",10
+21,32,Male,Divorced,3298,Mid,Low,2,5,2,"Life Sciences",6
+22,22,Male,Divorced,2935,Young,Low,2,16,2,Medical,1
+23,53,Female,Married,15427,Veteran,High,3,2,4,"Life Sciences",25
+24,38,Male,Single,3944,Senior,Low,3,2,3,"Life Sciences",3
+26,24,Female,Divorced,4011,Young,Low,2,11,2,Other,4
+27,36,Male,Single,3407,Senior,Low,3,9,4,"Life Sciences",5
+28,34,Female,Single,11994,Mid,High,3,7,4,"Life Sciences",12
+30,21,Male,Single,1232,Young,Low,3,15,2,"Life Sciences",0
+31,34,Male,Single,2960,Mid,Low,3,6,1,Medical,4
+32,53,Female,Divorced,19094,Veteran,High,2,5,3,Other,14
+33,32,Female,Single,3919,Mid,Low,3,16,1,"Life Sciences",10
+35,42,Male,Married,6825,Senior,Medium,3,8,4,Marketing,9
+36,44,Female,Married,10248,Senior,High,3,7,4,Medical,22
+38,46,Female,Single,18947,Senior,High,2,2,4,Marketing,2
+39,33,Male,Single,2496,Mid,Low,3,2,3,Medical,1
+40,44,Male,Married,6465,Senior,Medium,4,10,4,Other,4
+41,30,Male,Single,2206,Mid,Low,3,9,2,Medical,10
+42,39,Male,Married,2086,Senior,Low,4,5,3,"Technical Degree",1
+45,24,Male,Married,2293,Young,Low,2,1,3,Medical,2
+46,43,Female,Divorced,2645,Senior,Low,2,2,2,Medical,5
+47,50,Male,Married,2683,Senior,Low,3,3,2,Marketing,3
+49,35,Female,Married,2014,Mid,Low,3,2,3,Marketing,2
+51,36,Female,Married,3419,Senior,Low,4,5,4,"Life Sciences",1
+52,33,Female,Married,5376,Mid,Medium,3,1,3,"Life Sciences",5
+53,35,Male,Divorced,1951,Mid,Low,3,4,2,Other,1
+54,27,Female,Divorced,2341,Mid,Low,3,2,4,"Life Sciences",1
+55,26,Male,Single,2293,Mid,Low,2,25,3,"Life Sciences",1
+56,27,Male,Single,8726,Mid,Medium,3,8,3,"Life Sciences",9
+57,30,Female,Single,4011,Mid,Low,3,1,2,Medical,12
+58,41,Female,Married,19545,Senior,High,3,12,3,"Technical Degree",22
+60,34,Male,Single,4568,Mid,Low,3,23,4,Marketing,9
+61,37,Male,Married,3022,Senior,Low,3,19,2,"Life Sciences",1
+62,46,Male,Single,5772,Senior,Medium,3,5,4,Marketing,9
+63,35,Male,Married,2269,Mid,Low,3,8,1,"Life Sciences",1
+64,48,Male,Single,5381,Senior,Medium,3,1,2,"Life Sciences",1
+65,28,Male,Single,3441,Mid,Low,2,5,4,"Technical Degree",2
+68,44,Female,Divorced,5454,Senior,Medium,2,1,5,Marketing,4
+70,35,Male,Married,9884,Mid,Medium,3,11,2,Medical,4
+72,26,Female,Married,4157,Mid,Low,2,23,3,Marketing,2
+73,33,Female,Single,13458,Mid,High,3,1,2,"Life Sciences",15
+74,35,Male,Married,9069,Mid,Medium,2,18,5,"Life Sciences",9
+75,35,Female,Married,4014,Mid,Low,3,23,4,Medical,2
+76,31,Male,Divorced,5915,Mid,Medium,2,7,4,"Life Sciences",7
+77,37,Male,Divorced,5993,Senior,Medium,4,1,4,"Life Sciences",7
+78,32,Male,Married,6162,Mid,Medium,3,1,3,Medical,9
+79,38,Female,Single,2406,Senior,Low,3,29,5,"Life Sciences",10
+80,50,Female,Divorced,18740,Senior,High,2,7,2,Medical,27
+81,59,Female,Single,7637,Veteran,Medium,2,25,3,"Life Sciences",21
+83,36,Female,Divorced,10096,Senior,High,3,8,3,"Technical Degree",17
+84,55,Female,Divorced,14756,Veteran,High,3,8,3,Medical,5
+85,36,Male,Single,6499,Senior,Medium,3,11,3,"Life Sciences",6
+86,45,Male,Divorced,9724,Senior,Medium,3,7,3,"Life Sciences",1
+88,35,Male,Married,2194,Mid,Low,2,1,3,Medical,3
+90,36,Male,Married,3388,Senior,Low,2,9,3,Medical,1
+91,59,Female,Single,5473,Veteran,Medium,2,1,1,"Life Sciences",4
+94,29,Male,Married,2703,Mid,Low,3,2,3,"Life Sciences",5
+95,31,Male,Single,2501,Mid,Low,3,1,4,Medical,1
+96,32,Male,Married,6220,Mid,Medium,3,1,3,"Life Sciences",10
+97,36,Female,Married,3038,Senior,Low,3,6,3,"Life Sciences",1
+98,31,Female,Single,4424,Mid,Low,3,8,4,"Life Sciences",11
+100,35,Male,Single,4312,Mid,Low,3,1,4,Marketing,15
+101,45,Male,Married,13245,Senior,High,4,6,4,Other,0
+102,37,Male,Single,13664,Senior,High,4,7,4,Medical,5
+103,46,Male,Divorced,5021,Senior,Medium,3,5,2,Medical,4
+104,30,Male,Married,5126,Mid,Medium,2,1,1,"Life Sciences",10
+105,35,Male,Single,2859,Mid,Low,3,1,3,Medical,6
+106,55,Male,Married,10239,Veteran,High,3,1,2,"Life Sciences",1
+107,38,Female,Divorced,5329,Senior,Medium,3,6,3,Medical,13
+110,34,Male,Married,4325,Mid,Low,3,1,2,Medical,5
+112,56,Male,Single,7260,Veteran,Medium,2,7,3,"Life Sciences",6
+113,23,Male,Divorced,2322,Young,Low,3,2,1,"Technical Degree",0
+116,51,Male,Married,2075,Veteran,Low,3,9,4,"Life Sciences",4
+117,30,Male,Married,4152,Mid,Low,3,2,3,"Life Sciences",11
+118,46,Male,Single,9619,Senior,Medium,3,9,2,Medical,9
+119,40,Male,Married,13503,Senior,High,2,1,4,"Life Sciences",22
+120,51,Male,Single,5441,Veteran,Medium,1,21,4,Marketing,10
+121,30,Female,Divorced,5209,Mid,Medium,2,4,2,Medical,11
+124,46,Male,Married,10673,Senior,High,2,1,3,Medical,10
+125,32,Male,Single,5010,Mid,Medium,3,6,4,Medical,11
+126,54,Female,Married,13549,Veteran,High,1,2,4,"Technical Degree",4
+128,24,Female,Married,4999,Young,Low,2,3,2,Other,3
+129,28,Male,Married,4221,Mid,Low,4,4,3,Medical,5
+131,58,Male,Single,13872,Veteran,High,2,10,4,Medical,37
+132,44,Male,Married,2042,Senior,Low,4,23,3,Medical,3
+133,37,Male,Divorced,2073,Senior,Low,3,6,4,"Human Resources",3
+134,32,Male,Single,2956,Mid,Low,3,1,1,"Life Sciences",1
+137,20,Female,Single,2926,Young,Low,3,6,3,"Life Sciences",1
+138,34,Female,Single,4809,Mid,Low,3,6,4,Other,16
+139,37,Male,Divorced,5163,Senior,Medium,4,2,2,"Life Sciences",1
+140,59,Female,Married,18844,Veteran,High,3,2,4,"Human Resources",3
+141,50,Female,Married,18172,Senior,High,2,1,3,"Life Sciences",8
+142,25,Male,Single,5744,Young,Medium,3,5,3,Marketing,6
+143,25,Male,Married,2889,Young,Low,3,7,1,Medical,2
+144,22,Female,Single,2871,Young,Low,3,15,3,Medical,0
+145,51,Female,Single,7484,Veteran,Medium,2,1,4,Medical,13
+147,34,Male,Single,6074,Mid,Medium,3,7,3,"Life Sciences",9
+148,54,Female,Single,17328,Veteran,High,3,26,3,"Human Resources",5
+150,24,Male,Married,2774,Young,Low,3,18,1,"Life Sciences",5
+151,34,Female,Divorced,4505,Mid,Low,3,6,4,"Life Sciences",1
+152,37,Male,Single,7428,Senior,Medium,3,3,3,"Life Sciences",5
+153,34,Female,Single,11631,Mid,High,3,5,3,Medical,11
+154,36,Female,Married,9738,Senior,Medium,3,11,2,"Technical Degree",9
+155,36,Female,Divorced,2835,Senior,Low,3,3,2,"Life Sciences",1
+158,43,Male,Married,16959,Senior,High,4,26,2,"Life Sciences",25
+159,30,Male,Divorced,2613,Mid,Low,2,23,3,"Life Sciences",10
+160,33,Male,Married,6146,Mid,Medium,4,22,2,Marketing,7
+161,56,Female,Married,4963,Veteran,Low,3,14,4,"Life Sciences",5
+162,51,Male,Single,19537,Veteran,High,3,6,3,"Life Sciences",20
+163,31,Male,Married,6172,Mid,Medium,2,6,4,"Life Sciences",7
+164,26,Female,Married,2368,Mid,Low,2,6,3,Other,5
+165,58,Female,Married,10312,Veteran,High,2,23,4,Medical,40
+167,19,Male,Single,1675,Young,Low,2,22,1,Marketing,0
+169,22,Male,Married,2523,Young,Low,3,2,1,"Technical Degree",2
+170,49,Female,Married,6567,Senior,Medium,2,20,4,Medical,15
+171,43,Female,Single,4739,Senior,Low,3,28,3,Medical,3
+174,50,Female,Single,9208,Senior,Medium,3,12,3,Marketing,2
+175,31,Female,Married,4559,Mid,Low,3,20,3,"Life Sciences",2
+176,41,Male,Divorced,8189,Senior,Medium,3,9,1,"Life Sciences",9
+177,26,Female,Married,2942,Mid,Low,3,25,1,"Life Sciences",8
+178,36,Male,Divorced,4941,Senior,Low,3,6,2,Medical,3
+179,51,Male,Single,10650,Veteran,High,3,8,4,"Life Sciences",4
+182,39,Female,Married,5902,Senior,Medium,4,4,4,"Life Sciences",15
+183,25,Male,Married,8639,Young,Medium,3,28,3,"Life Sciences",2
+184,30,Male,Married,6347,Mid,Medium,1,9,3,"Human Resources",11
+190,32,Female,Single,4200,Mid,Low,4,9,3,Medical,5
+192,45,Male,Single,3452,Senior,Low,2,29,3,Medical,6
+193,38,Female,Single,4317,Senior,Low,3,3,5,"Technical Degree",3
+194,30,Female,Single,2632,Mid,Low,2,18,3,"Life Sciences",5
+195,32,Male,Divorced,4668,Mid,Low,4,9,2,Medical,8
+197,30,Female,Divorced,3204,Mid,Low,3,5,3,"Technical Degree",3
+198,30,Male,Single,2720,Mid,Low,3,2,1,Medical,5
+199,41,Male,Divorced,17181,Senior,High,2,10,3,"Life Sciences",7
+200,41,Male,Married,2238,Senior,Low,3,9,4,"Life Sciences",5
+201,19,Female,Single,1483,Young,Low,3,3,1,Medical,1
+202,40,Female,Divorced,5605,Senior,Medium,3,26,3,Medical,20
+204,35,Male,Married,7295,Mid,Medium,3,1,5,Marketing,10
+205,53,Male,Married,2306,Veteran,Low,1,6,2,Marketing,7
+206,45,Male,Divorced,2348,Senior,Low,1,9,3,"Life Sciences",17
+207,32,Female,Single,8998,Mid,Medium,3,8,3,Marketing,9
+208,29,Male,Married,4319,Mid,Low,3,1,1,"Technical Degree",10
+211,51,Male,Married,6132,Veteran,Medium,3,7,4,Medical,1
+214,58,Female,Married,3346,Veteran,Low,2,9,3,Medical,1
+215,40,Male,Married,10855,Senior,High,2,4,4,Marketing,12
+216,34,Female,Married,2231,Mid,Low,3,2,4,Marketing,4
+217,22,Male,Married,2323,Young,Low,3,19,1,Medical,2
+218,27,Male,Divorced,2024,Mid,Low,1,9,3,Medical,2
+221,28,Male,Married,2713,Mid,Low,1,21,3,Medical,5
+223,57,Male,Divorced,9439,Veteran,Medium,1,24,2,"Life Sciences",5
+224,27,Male,Divorced,2566,Mid,Low,2,3,3,Medical,1
+226,50,Female,Single,19926,Senior,High,3,11,3,"Life Sciences",5
+227,41,Male,Divorced,2451,Senior,Low,3,14,3,"Life Sciences",9
+228,30,Female,Married,9419,Mid,Medium,3,5,3,"Life Sciences",10
+230,38,Female,Single,8686,Senior,Medium,4,1,4,"Life Sciences",8
+231,32,Male,Single,3038,Mid,Low,3,6,5,"Life Sciences",5
+233,27,Male,Married,3058,Mid,Low,2,17,3,"Technical Degree",5
+235,19,Female,Single,2325,Young,Low,4,1,1,"Technical Degree",0
+238,36,Male,Single,2088,Senior,Low,2,3,2,Medical,8
+239,30,Male,Divorced,3072,Mid,Low,3,9,3,Medical,12
+240,45,Female,Divorced,5006,Senior,Medium,4,4,2,"Life Sciences",5
+241,56,Female,Divorced,4257,Veteran,Low,3,8,3,"Life Sciences",2
+242,33,Male,Single,2500,Mid,Low,4,2,3,"Life Sciences",3
+243,19,Male,Single,1102,Young,Low,2,2,3,"Life Sciences",1
+244,46,Female,Divorced,10453,Senior,High,3,1,2,Marketing,24
+245,38,Female,Single,2288,Senior,Low,3,9,2,"Life Sciences",2
+246,31,Female,Married,3929,Mid,Low,3,12,1,Medical,4
+247,34,Female,Single,2311,Mid,Low,3,27,2,Medical,3
+248,41,Female,Single,3140,Senior,Low,2,20,2,Marketing,4
+249,50,Male,Married,3690,Senior,Low,2,1,3,Medical,3
+250,53,Female,Divorced,4450,Veteran,Low,3,13,2,Medical,4
+252,33,Female,Married,2756,Mid,Low,3,14,3,Medical,8
+253,40,Female,Married,19033,Senior,High,3,4,1,Medical,20
+254,55,Male,Single,18722,Veteran,High,3,14,4,Medical,24
+256,34,Male,Married,9547,Mid,Medium,2,2,1,"Life Sciences",10
+258,51,Female,Single,13734,Veteran,High,3,3,3,Medical,7
+259,52,Male,Married,19999,Veteran,High,3,1,4,"Life Sciences",33
+260,27,Female,Single,2279,Mid,Low,2,9,3,Medical,7
+261,35,Male,Married,5916,Mid,Medium,3,23,2,"Life Sciences",1
+262,43,Male,Divorced,2089,Senior,Low,4,7,3,Medical,5
+264,45,Male,Married,16792,Senior,High,3,2,2,Medical,20
+267,37,Male,Married,3564,Senior,Low,2,21,3,"Life Sciences",8
+269,35,Female,Single,4425,Mid,Low,3,2,3,Medical,6
+270,42,Female,Divorced,5265,Senior,Medium,3,21,2,Medical,5
+271,38,Male,Married,6553,Senior,Medium,3,2,4,"Life Sciences",1
+273,38,Male,Married,6261,Senior,Medium,1,29,3,"Technical Degree",7
+274,27,Male,Married,4298,Mid,Low,3,1,1,"Technical Degree",2
+275,49,Male,Divorced,6804,Senior,Medium,3,18,4,"Life Sciences",7
+277,34,Male,Divorced,3815,Mid,Low,4,10,4,Medical,5
+281,40,Male,Married,2741,Senior,Low,4,19,2,Medical,7
+282,38,Male,Married,6673,Senior,Medium,3,29,1,Medical,1
+283,29,Female,Married,7639,Mid,Medium,2,27,3,Marketing,10
+284,22,Male,Divorced,2328,Young,Low,2,5,3,"Life Sciences",4
+286,36,Female,Single,2153,Senior,Low,3,18,1,Medical,8
+287,40,Male,Married,4876,Senior,Low,1,9,5,"Life Sciences",3
+288,46,Male,Divorced,9396,Senior,Medium,3,1,4,Medical,4
+291,32,Male,Married,10400,Mid,High,2,4,4,Medical,14
+292,30,Male,Single,8474,Mid,Medium,3,1,1,"Life Sciences",11
+293,27,Female,Single,9981,Mid,Medium,3,20,3,"Life Sciences",7
+296,51,Male,Married,12490,Veteran,High,1,8,4,"Life Sciences",10
+297,30,Female,Single,2657,Mid,Low,3,3,3,"Technical Degree",5
+298,41,Female,Single,13591,Senior,High,3,6,3,"Life Sciences",1
+299,30,Female,Single,6696,Mid,Medium,2,26,4,Marketing,6
+300,29,Male,Single,2058,Mid,Low,2,1,3,"Technical Degree",6
+302,45,Female,Single,8865,Senior,Medium,3,6,3,Medical,19
+303,54,Female,Married,5940,Veteran,Medium,3,3,3,Marketing,6
+304,36,Male,Single,5914,Senior,Medium,4,5,2,"Life Sciences",13
+305,33,Female,Married,2622,Mid,Low,3,4,4,Medical,3
+306,37,Male,Divorced,12185,Senior,High,3,11,3,Other,10
+307,38,Male,Divorced,10609,Senior,High,2,3,3,"Life Sciences",16
+308,31,Male,Married,4345,Mid,Low,3,1,4,Medical,5
+309,59,Male,Married,2177,Veteran,Low,3,3,3,"Life Sciences",1
+311,37,Male,Divorced,2793,Senior,Low,3,4,4,Marketing,9
+312,29,Female,Married,7918,Mid,Medium,3,1,1,Medical,11
+314,35,Female,Single,8789,Mid,Medium,4,1,3,Marketing,10
+315,29,Male,Single,2389,Mid,Low,2,18,1,Medical,4
+316,52,Female,Single,3212,Veteran,Low,2,2,3,"Life Sciences",2
+319,42,Male,Married,19232,Senior,High,3,4,2,"Technical Degree",22
+321,59,Male,Married,2267,Veteran,Low,2,6,2,Medical,2
+323,50,Female,Divorced,19517,Senior,High,2,1,4,Medical,7
+325,33,Male,Married,2436,Mid,Low,1,14,3,Medical,5
+327,43,Female,Married,16064,Senior,High,3,16,3,Marketing,17
+328,33,Female,Married,2707,Mid,Low,4,2,2,"Life Sciences",9
+329,52,Male,Single,19068,Veteran,High,4,2,4,"Life Sciences",33
+330,32,Female,Married,3931,Mid,Low,3,4,2,"Life Sciences",4
+331,32,Male,Single,3730,Mid,Low,1,1,3,"Life Sciences",3
+332,39,Female,Divorced,2232,Senior,Low,3,1,4,Medical,3
+333,32,Male,Married,4465,Mid,Low,3,26,4,Marketing,3
+334,41,Male,Divorced,3072,Senior,Low,2,19,2,"Life Sciences",1
+335,40,Male,Divorced,3319,Senior,Low,3,24,2,"Technical Degree",9
+336,45,Male,Married,19202,Senior,High,3,1,3,Other,24
+337,31,Male,Divorced,13675,Mid,High,3,3,4,Medical,2
+338,33,Female,Married,2911,Mid,Low,2,5,4,"Life Sciences",2
+339,34,Male,Married,5957,Mid,Medium,3,2,4,"Life Sciences",11
+340,37,Female,Married,3920,Senior,Low,2,1,2,Medical,3
+341,45,Male,Married,6434,Senior,Medium,3,7,4,"Life Sciences",3
+342,37,Male,Divorced,10048,Senior,High,3,10,3,Medical,1
+343,39,Female,Single,10938,Senior,High,3,2,4,"Technical Degree",19
+346,29,Male,Single,2340,Mid,Low,3,15,3,"Life Sciences",6
+347,42,Female,Single,6545,Senior,Medium,3,17,2,"Life Sciences",3
+349,29,Male,Divorced,6931,Mid,Medium,3,20,2,Marketing,3
+350,25,Female,Married,4898,Young,Low,3,1,3,"Life Sciences",4
+351,42,Female,Divorced,2593,Senior,Low,3,2,3,Medical,9
+352,40,Male,Divorced,19436,Senior,High,3,2,2,Medical,21
+353,51,Male,Married,2723,Veteran,Low,2,1,3,"Life Sciences",1
+355,31,Male,Single,3479,Mid,Low,4,29,2,Medical,5
+359,32,Male,Married,2794,Mid,Low,1,7,3,"Life Sciences",5
+361,38,Male,Married,5249,Senior,Medium,3,2,2,"Life Sciences",8
+362,32,Male,Single,2176,Mid,Low,3,2,1,"Technical Degree",6
+363,46,Female,Married,16872,Senior,High,2,2,3,"Technical Degree",7
+364,28,Male,Single,3485,Mid,Low,1,2,4,"Life Sciences",0
+366,29,Male,Married,6644,Mid,Medium,3,2,3,Medical,0
+367,31,Male,Married,5582,Mid,Medium,3,23,3,Medical,9
+369,25,Male,Divorced,4000,Young,Low,3,5,2,"Life Sciences",6
+372,45,Male,Married,13496,Senior,High,3,20,2,Medical,20
+373,36,Male,Married,3210,Senior,Low,3,6,3,"Life Sciences",15
+374,55,Male,Single,19045,Veteran,High,3,1,3,Medical,36
+376,47,Male,Married,11849,Senior,High,2,29,4,"Life Sciences",10
+377,28,Male,Married,2070,Mid,Low,2,9,3,Medical,5
+378,37,Male,Married,6502,Senior,Medium,4,6,4,Medical,5
+379,21,Male,Single,3230,Young,Low,4,3,2,Medical,3
+380,37,Female,Divorced,13603,Senior,High,3,1,4,Medical,5
+381,35,Female,Divorced,11996,Mid,High,2,22,3,"Life Sciences",7
+382,38,Female,Divorced,5605,Senior,Medium,3,7,2,Medical,8
+384,26,Female,Divorced,6397,Mid,Medium,1,1,3,"Life Sciences",6
+385,50,Male,Divorced,19144,Senior,High,2,4,1,"Life Sciences",10
+386,53,Male,Married,17584,Veteran,High,2,3,4,Medical,5
+387,42,Male,Married,4907,Senior,Low,3,1,1,"Life Sciences",20
+388,29,Male,Single,4554,Mid,Low,2,2,2,"Life Sciences",10
+389,55,Male,Married,5415,Veteran,Medium,3,20,2,"Technical Degree",10
+390,26,Male,Married,4741,Mid,Low,3,11,2,Medical,5
+391,37,Female,Single,2115,Senior,Low,3,1,3,"Life Sciences",17
+392,44,Male,Divorced,3161,Senior,Low,1,24,3,"Life Sciences",1
+393,38,Male,Divorced,5745,Senior,Medium,3,23,4,"Life Sciences",2
+394,26,Male,Divorced,2373,Mid,Low,3,16,4,Medical,3
+395,28,Female,Single,3310,Mid,Low,3,8,2,"Life Sciences",5
+396,49,Female,Single,18665,Senior,High,3,10,4,"Life Sciences",3
+397,36,Male,Single,4485,Senior,Low,3,3,3,"Technical Degree",8
+399,31,Female,Divorced,2789,Mid,Low,2,5,3,Marketing,2
+401,26,Male,Single,5828,Mid,Medium,3,4,4,Marketing,8
+403,37,Male,Married,2326,Senior,Low,2,9,3,Medical,4
+404,42,Female,Married,13525,Senior,High,4,26,3,Marketing,20
+405,18,Male,Single,1420,Young,Low,3,3,3,"Life Sciences",0
+406,35,Male,Married,8020,Mid,Medium,2,16,3,Marketing,11
+407,36,Male,Married,3688,Senior,Low,3,18,4,"Life Sciences",1
+408,51,Male,Divorced,5482,Veteran,Medium,3,2,3,Medical,4
+410,41,Male,Single,16015,Senior,High,3,2,4,"Life Sciences",22
+411,18,Female,Single,1200,Young,Low,3,10,3,Medical,0
+412,28,Male,Single,5661,Mid,Medium,3,16,2,Medical,8
+416,31,Male,Married,6929,Mid,Medium,2,7,3,"Technical Degree",8
+417,39,Male,Divorced,9613,Senior,Medium,2,1,3,Medical,18
+419,36,Female,Married,5674,Senior,Medium,3,24,4,"Life Sciences",9
+420,32,Male,Married,5484,Mid,Medium,2,7,3,"Life Sciences",13
+421,38,Female,Married,12061,Senior,High,3,25,2,"Life Sciences",10
+422,58,Male,Divorced,5660,Veteran,Medium,3,1,4,"Life Sciences",5
+423,31,Male,Married,4821,Mid,Low,3,5,4,"Technical Degree",5
+424,31,Male,Married,6410,Mid,Medium,3,2,3,"Human Resources",2
+425,45,Male,Divorced,5210,Senior,Medium,3,7,3,"Life Sciences",24
+426,31,Male,Divorced,2695,Mid,Low,1,2,4,"Life Sciences",2
+428,33,Female,Married,11878,Mid,High,3,5,4,"Life Sciences",10
+429,39,Male,Married,17068,Senior,High,3,10,1,Medical,21
+430,43,Female,Single,2455,Senior,Low,3,10,4,"Life Sciences",8
+431,49,Female,Single,13964,Senior,High,3,1,2,"Technical Degree",7
+433,52,Male,Married,4941,Veteran,Low,2,8,4,Medical,8
+434,27,Female,Single,2478,Mid,Low,2,5,3,"Life Sciences",4
+436,32,Female,Married,5228,Mid,Medium,3,8,2,"Technical Degree",13
+437,27,Male,Single,4478,Mid,Low,3,2,3,"Life Sciences",5
+438,31,Male,Divorced,7547,Mid,Medium,3,7,3,Marketing,7
+439,32,Female,Single,5055,Mid,Medium,2,2,4,Medical,7
+440,28,Male,Married,3464,Mid,Low,2,2,4,Medical,3
+441,30,Female,Married,5775,Mid,Medium,3,28,2,Medical,10
+442,31,Female,Married,8943,Mid,Medium,3,7,2,"Life Sciences",10
+444,39,Male,Married,19272,Senior,High,3,7,2,Medical,21
+445,39,Female,Married,5238,Senior,Medium,2,3,2,Medical,1
+446,33,Male,Single,4682,Mid,Low,2,10,3,Marketing,7
+447,47,Male,Married,18300,Senior,High,3,5,5,"Life Sciences",3
+448,43,Female,Divorced,5257,Senior,Medium,4,10,4,"Life Sciences",9
+449,27,Male,Married,6349,Mid,Medium,3,1,1,Marketing,5
+450,54,Female,Single,4869,Veteran,Low,2,20,4,"Life Sciences",4
+451,43,Female,Married,9985,Senior,Medium,2,7,3,"Life Sciences",1
+452,45,Male,Married,3697,Senior,Low,3,8,4,Other,10
+453,40,Male,Married,7457,Senior,Medium,2,1,2,Medical,4
+454,29,Male,Married,2119,Mid,Low,2,8,4,Other,7
+455,29,Male,Single,3983,Mid,Low,3,9,5,Other,3
+456,30,Female,Divorced,6118,Mid,Medium,3,5,3,Marketing,10
+458,27,Female,Married,6214,Mid,Medium,3,8,4,Marketing,8
+460,37,Male,Divorced,6347,Senior,Medium,2,5,2,Medical,6
+461,38,Male,Divorced,11510,Senior,High,3,15,2,"Life Sciences",11
+462,31,Female,Single,7143,Mid,Medium,2,7,4,Medical,11
+463,29,Female,Divorced,8268,Mid,Medium,3,10,1,Marketing,7
+464,35,Male,Single,8095,Mid,Medium,3,5,4,"Technical Degree",16
+465,23,Male,Divorced,2904,Young,Low,2,26,1,"Life Sciences",4
+466,41,Male,Single,6032,Senior,Medium,3,6,3,Medical,5
+467,47,Male,Single,2976,Senior,Low,3,4,1,Medical,0
+468,42,Female,Single,15992,Senior,High,3,23,5,"Life Sciences",1
+469,29,Male,Married,4649,Mid,Low,2,2,3,"Life Sciences",4
+470,42,Male,Divorced,2696,Senior,Low,3,2,1,"Technical Degree",3
+471,32,Female,Married,2370,Mid,Low,3,2,3,Medical,8
+473,48,Female,Married,12504,Senior,High,1,29,1,Medical,0
+474,37,Male,Divorced,5974,Senior,Medium,3,6,3,Medical,7
+475,30,Female,Married,4736,Mid,Low,4,25,2,"Technical Degree",2
+476,26,Male,Married,5296,Mid,Medium,3,1,3,"Life Sciences",8
+477,42,Male,Single,6781,Senior,Medium,3,2,4,Other,1
+478,21,Female,Single,2174,Young,Low,3,1,1,"Technical Degree",3
+479,36,Female,Single,6653,Senior,Medium,3,1,5,Medical,1
+481,36,Male,Married,9699,Senior,Medium,3,3,4,Medical,13
+482,57,Male,Married,6755,Veteran,Medium,3,1,4,Medical,3
+483,40,Female,Married,2213,Senior,Low,3,10,4,"Life Sciences",7
+484,21,Male,Single,2610,Young,Low,2,9,2,Medical,3
+485,33,Female,Single,2851,Mid,Low,3,5,3,Marketing,1
+486,37,Female,Married,3452,Senior,Low,3,10,3,Medical,5
+487,46,Female,Married,5258,Senior,Medium,4,7,4,Medical,1
+488,41,Male,Single,9355,Senior,Medium,3,4,3,Marketing,8
+491,50,Male,Single,10496,Senior,High,3,10,3,"Technical Degree",4
+492,40,Male,Married,6380,Senior,Medium,3,22,2,Marketing,6
+493,31,Male,Single,2657,Mid,Low,3,9,4,"Life Sciences",2
+494,21,Female,Single,2716,Young,Low,3,12,3,"Life Sciences",1
+495,29,Male,Single,2201,Mid,Low,3,23,3,"Life Sciences",3
+496,35,Male,Single,6540,Mid,Medium,3,9,4,"Life Sciences",1
+497,27,Male,Divorced,3816,Mid,Low,3,1,2,Medical,5
+498,28,Male,Single,5253,Mid,Medium,3,9,4,"Life Sciences",7
+499,49,Male,Single,10965,Senior,High,3,7,3,Other,5
+500,51,Female,Married,4936,Veteran,Low,2,14,2,"Life Sciences",7
+501,36,Female,Married,2543,Senior,Low,3,2,3,"Life Sciences",2
+502,34,Male,Single,5304,Mid,Medium,2,19,3,Marketing,5
+505,55,Female,Single,16659,Veteran,High,3,2,3,"Life Sciences",5
+507,24,Female,Divorced,4260,Young,Low,4,10,4,Marketing,5
+508,30,Male,Married,2476,Mid,Low,3,2,1,"Technical Degree",1
+510,26,Male,Single,3102,Mid,Low,3,3,1,"Technical Degree",6
+511,22,Female,Married,2244,Young,Low,3,11,3,Medical,2
+513,36,Male,Married,7596,Senior,Medium,3,2,2,Medical,10
+514,30,Male,Single,2285,Mid,Low,3,4,3,"Technical Degree",1
+515,37,Female,Divorced,3034,Senior,Low,2,14,3,"Life Sciences",18
+516,40,Female,Divorced,5715,Senior,Medium,3,2,2,Marketing,5
+517,42,Female,Divorced,2576,Senior,Low,3,1,4,"Life Sciences",5
+518,37,Male,Single,4197,Senior,Low,2,10,4,"Life Sciences",1
+520,43,Male,Divorced,14336,Senior,High,3,12,3,"Life Sciences",25
+521,40,Female,Married,3448,Senior,Low,3,2,3,Medical,1
+522,54,Male,Married,19406,Veteran,High,2,5,2,Medical,4
+523,34,Female,Married,6538,Mid,Medium,3,4,4,Marketing,3
+524,31,Female,Married,4306,Mid,Low,1,7,2,Medical,13
+525,43,Male,Married,2258,Senior,Low,3,21,3,Medical,3
+526,43,Female,Divorced,4522,Senior,Low,3,8,4,Other,5
+527,25,Female,Single,4487,Young,Low,3,4,2,"Life Sciences",5
+529,37,Female,Married,4449,Senior,Low,3,25,5,Medical,13
+530,31,Male,Married,2218,Mid,Low,3,1,2,"Life Sciences",4
+531,39,Male,Divorced,19197,Senior,High,3,1,1,"Life Sciences",21
+532,56,Female,Married,13212,Veteran,High,2,6,3,"Life Sciences",7
+533,30,Female,Single,6577,Mid,Medium,3,12,3,"Technical Degree",5
+534,41,Male,Married,8392,Senior,Medium,3,1,3,Marketing,10
+536,28,Male,Divorced,4558,Mid,Low,3,17,2,Medical,10
+538,25,Male,Married,4031,Young,Low,3,3,3,Medical,2
+543,52,Male,Married,7969,Veteran,Medium,3,3,3,Medical,5
+544,45,Male,Married,2654,Senior,Low,2,10,2,"Life Sciences",2
+546,52,Female,Married,16555,Veteran,High,1,4,2,"Life Sciences",5
+547,42,Female,Divorced,4556,Senior,Low,3,29,2,"Life Sciences",5
+548,30,Female,Single,6091,Mid,Medium,3,2,3,"Life Sciences",5
+549,60,Female,Married,19566,Veteran,High,1,7,3,"Life Sciences",29
+550,46,Female,Divorced,4810,Senior,Low,2,18,3,Medical,10
+551,42,Female,Married,4523,Senior,Low,4,28,4,"Technical Degree",6
+554,24,Female,Single,3202,Young,Low,3,1,1,"Technical Degree",5
+555,34,Female,Divorced,2351,Mid,Low,2,6,2,Marketing,2
+556,38,Male,Married,1702,Senior,Low,3,2,2,"Life Sciences",1
+558,40,Female,Married,18041,Senior,High,3,2,4,"Life Sciences",20
+560,26,Female,Divorced,2886,Mid,Low,1,23,3,"Life Sciences",3
+562,30,Male,Married,2097,Mid,Low,1,3,3,"Life Sciences",5
+564,29,Male,Married,11935,Mid,High,3,3,4,Medical,10
+565,29,Female,Married,2546,Mid,Low,4,25,5,"Technical Degree",2
+566,19,Male,Single,2564,Young,Low,4,2,2,"Technical Degree",1
+567,30,Female,Married,8412,Mid,Medium,3,22,4,Other,9
+568,57,Male,Divorced,14118,Veteran,High,2,29,3,Marketing,1
+569,50,Male,Married,17046,Senior,High,3,29,4,"Life Sciences",27
+571,30,Female,Single,2564,Mid,Low,2,2,3,Medical,11
+573,60,Female,Married,10266,Veteran,High,4,28,3,Marketing,18
+574,47,Female,Divorced,5070,Senior,Medium,3,2,2,Medical,5
+575,46,Male,Married,17861,Senior,High,1,2,3,"Life Sciences",3
+577,35,Male,Single,4230,Mid,Low,3,22,3,"Life Sciences",5
+578,54,Female,Single,3780,Veteran,Low,3,8,4,"Life Sciences",1
+579,34,Male,Divorced,2768,Mid,Low,3,2,4,"Life Sciences",7
+580,46,Female,Married,9071,Senior,Medium,3,10,3,Marketing,3
+581,31,Male,Divorced,10648,Mid,High,4,9,1,"Life Sciences",13
+582,33,Male,Married,13610,Mid,High,4,15,1,Medical,7
+584,33,Male,Divorced,3408,Mid,Low,3,10,1,Medical,4
+585,30,Male,Single,2983,Mid,Low,3,7,1,Marketing,3
+586,35,Male,Married,7632,Mid,Medium,3,16,3,"Life Sciences",8
+587,31,Male,Married,9824,Mid,Medium,3,20,3,"Life Sciences",1
+590,34,Female,Divorced,9950,Mid,Medium,3,23,3,"Human Resources",3
+591,42,Male,Married,2093,Senior,Low,3,5,2,Other,2
+592,36,Male,Single,9980,Senior,Medium,2,10,4,Medical,10
+593,22,Male,Single,3894,Young,Low,3,4,1,"Technical Degree",2
+595,48,Female,Married,4051,Senior,Low,3,2,5,Marketing,9
+597,55,Female,Single,16835,Veteran,High,3,18,5,"Life Sciences",10
+599,41,Male,Single,6230,Senior,Medium,3,10,2,"Life Sciences",14
+600,35,Male,Married,4717,Mid,Low,3,1,3,Marketing,11
+601,40,Female,Single,13237,Senior,High,3,6,3,"Life Sciences",20
+602,39,Female,Married,3755,Senior,Low,3,8,1,"Life Sciences",8
+604,31,Male,Single,6582,Mid,Medium,4,2,1,"Life Sciences",6
+605,42,Male,Married,7406,Senior,Medium,2,24,3,Medical,10
+606,45,Male,Married,4805,Senior,Low,4,2,3,Other,8
+608,26,Female,Divorced,2741,Mid,Low,2,17,4,"Life Sciences",7
+611,29,Male,Divorced,4262,Mid,Low,4,19,3,"Technical Degree",3
+612,33,Female,Divorced,16184,Mid,High,3,1,5,Medical,6
+613,31,Male,Divorced,11557,Mid,High,2,7,3,"Life Sciences",5
+614,18,Male,Single,1878,Young,Low,3,5,3,Marketing,0
+615,40,Male,Divorced,10932,Senior,High,3,28,3,Other,1
+616,41,Female,Single,6811,Senior,Medium,3,2,4,Other,8
+618,26,Male,Divorced,4306,Mid,Low,3,29,2,Medical,0
+620,35,Female,Single,4859,Mid,Low,3,1,3,Medical,5
+621,34,Male,Single,5337,Mid,Medium,3,21,4,"Life Sciences",10
+622,26,Male,Single,2340,Mid,Low,1,24,3,"Technical Degree",1
+623,37,Female,Single,7491,Senior,Medium,4,1,3,"Technical Degree",6
+624,46,Female,Married,10527,Senior,High,2,18,1,Medical,2
+625,41,Female,Married,16595,Senior,High,3,2,5,"Life Sciences",18
+626,37,Male,Divorced,8834,Senior,Medium,3,9,4,Medical,9
+630,52,Male,Divorced,5577,Veteran,Medium,3,6,2,"Technical Degree",10
+631,32,Male,Married,4707,Mid,Low,3,11,4,Other,4
+632,24,Male,Married,2400,Young,Low,3,24,3,Medical,2
+634,38,Female,Married,9824,Senior,Medium,3,10,3,Medical,1
+635,37,Female,Married,6447,Senior,Medium,2,1,4,"Life Sciences",6
+638,49,Male,Divorced,19502,Senior,High,3,18,4,"Life Sciences",31
+639,24,Male,Married,2725,Young,Low,3,23,3,Medical,6
+641,26,Male,Married,6272,Mid,Medium,4,28,2,Marketing,5
+643,24,Male,Married,2127,Young,Low,3,17,2,Other,1
+644,50,Male,Married,18200,Senior,High,3,3,3,Medical,32
+645,25,Male,Married,2096,Young,Low,3,13,1,Medical,7
+647,24,Female,Married,2886,Young,Low,3,7,3,"Life Sciences",6
+648,30,Male,Married,2033,Mid,Low,4,12,4,"Life Sciences",1
+649,34,Male,Married,3622,Mid,Low,3,1,2,"Life Sciences",6
+650,31,Male,Divorced,4233,Mid,Low,1,13,4,Medical,3
+652,35,Male,Single,3681,Mid,Low,3,25,2,Other,3
+653,31,Male,Divorced,5460,Mid,Medium,4,6,4,Medical,7
+655,27,Female,Divorced,2187,Mid,Low,2,6,4,Medical,5
+656,37,Male,Married,9602,Senior,Medium,2,2,3,Marketing,3
+657,20,Female,Single,2836,Young,Low,4,1,3,"Life Sciences",1
+659,42,Female,Married,4089,Senior,Low,3,2,4,"Life Sciences",10
+661,43,Male,Divorced,16627,Senior,High,2,6,4,Other,1
+662,38,Female,Single,2619,Senior,Low,2,1,1,"Life Sciences",0
+663,43,Male,Divorced,5679,Senior,Medium,3,9,5,Medical,8
+664,48,Female,Married,15402,Senior,High,1,1,4,"Life Sciences",3
+665,44,Female,Single,5985,Senior,Medium,4,1,4,"Life Sciences",2
+666,34,Female,Divorced,2579,Mid,Low,3,14,3,"Technical Degree",8
+667,27,Male,Divorced,3041,Mid,Low,3,2,1,Marketing,4
+669,21,Male,Single,3447,Young,Low,3,22,1,"Technical Degree",3
+671,44,Male,Married,19513,Senior,High,4,3,4,Other,2
+675,22,Male,Married,2773,Young,Low,3,6,1,Medical,2
+677,33,Male,Divorced,7104,Mid,Medium,3,8,4,Marketing,5
+679,32,Female,Married,6322,Mid,Medium,2,9,4,"Life Sciences",6
+680,30,Female,Divorced,2083,Mid,Low,3,3,3,Medical,1
+682,53,Female,Single,8381,Veteran,Medium,4,1,1,Medical,14
+683,34,Male,Married,2691,Mid,Low,2,1,5,"Life Sciences",10
+684,45,Female,Married,4286,Senior,Low,3,26,4,"Life Sciences",1
+686,26,Female,Married,2659,Mid,Low,3,6,3,"Life Sciences",3
+689,37,Male,Married,9434,Senior,Medium,3,3,3,Other,10
+690,29,Female,Married,5561,Mid,Medium,2,3,2,Medical,6
+691,35,Male,Single,6646,Mid,Medium,3,6,4,"Life Sciences",17
+692,33,Male,Divorced,7725,Mid,Medium,1,6,3,"Life Sciences",13
+698,54,Male,Married,10725,Veteran,High,4,19,4,Medical,9
+699,36,Male,Divorced,8847,Senior,Medium,3,9,2,Medical,3
+700,27,Male,Single,2045,Mid,Low,3,3,4,Medical,4
+701,20,Male,Single,1009,Young,Low,3,10,1,Medical,1
+702,33,Male,Single,3348,Mid,Low,3,3,3,"Life Sciences",10
+704,35,Male,Married,1281,Mid,Low,3,3,3,"Life Sciences",1
+705,23,Male,Married,2819,Young,Low,4,4,3,Medical,3
+707,25,Male,Married,4851,Young,Low,3,8,3,"Life Sciences",3
+709,38,Female,Single,4028,Senior,Low,3,7,4,Marketing,7
+710,29,Male,Divorced,2720,Mid,Low,3,1,4,"Life Sciences",10
+712,48,Male,Married,8120,Senior,Medium,3,2,1,Marketing,2
+714,27,Female,Divorced,4647,Mid,Low,3,3,1,Medical,6
+715,37,Male,Single,4680,Senior,Low,3,10,2,"Life Sciences",1
+716,50,Male,Married,3221,Senior,Low,3,28,1,Medical,20
+717,34,Female,Single,8621,Mid,Medium,4,9,3,Medical,8
+720,24,Female,Single,4577,Young,Low,3,3,2,"Life Sciences",2
+721,39,Female,Single,4553,Senior,Low,3,2,4,"Technical Degree",20
+722,32,Male,Single,5396,Mid,Medium,2,10,3,Marketing,10
+723,50,Male,Married,6796,Senior,Medium,3,8,2,"Technical Degree",4
+724,38,Female,Single,7625,Senior,Medium,2,1,4,"Life Sciences",9
+725,27,Female,Married,7412,Mid,Medium,3,1,2,"Life Sciences",9
+727,32,Female,Single,11159,Mid,High,3,3,2,"Life Sciences",7
+728,47,Male,Single,4960,Senior,Low,3,14,4,Marketing,7
+729,40,Male,Married,10475,Senior,High,3,5,4,"Life Sciences",18
+730,53,Male,Married,14814,Veteran,High,3,7,3,"Life Sciences",5
+731,41,Male,Divorced,19141,Senior,High,2,10,4,"Human Resources",21
+732,60,Male,Single,5405,Veteran,Medium,3,16,4,Marketing,2
+733,27,Male,Divorced,8793,Mid,Medium,2,10,2,"Life Sciences",9
+734,41,Male,Married,19189,Senior,High,3,1,3,"Human Resources",22
+738,50,Male,Married,3875,Senior,Low,3,8,4,Marketing,2
+741,28,Female,Single,2216,Mid,Low,3,1,2,"Life Sciences",7
+742,36,Female,Married,11713,Senior,High,3,8,3,"Life Sciences",8
+743,38,Female,Single,7861,Senior,Medium,4,1,3,"Life Sciences",1
+744,44,Male,Single,3708,Senior,Low,3,24,3,Medical,5
+746,47,Female,Divorced,13770,Senior,High,2,3,3,Medical,22
+747,30,Male,Divorced,5304,Mid,Medium,2,27,5,Marketing,8
+749,29,Male,Single,2642,Mid,Low,3,10,3,"Life Sciences",1
+752,42,Male,Divorced,2759,Senior,Low,3,19,3,Medical,2
+754,43,Male,Married,6804,Senior,Medium,3,15,3,"Life Sciences",2
+757,34,Female,Single,6142,Mid,Medium,3,8,2,Medical,5
+758,23,Male,Married,2500,Young,Low,4,9,1,Medical,4
+760,39,Female,Married,6389,Senior,Medium,1,3,3,"Human Resources",8
+762,56,Male,Married,11103,Veteran,High,2,9,3,Medical,10
+763,40,Female,Single,2342,Senior,Low,2,2,1,Medical,4
+764,27,Female,Single,6811,Mid,Medium,1,7,3,Medical,7
+766,29,Male,Divorced,2297,Mid,Low,3,10,3,Marketing,2
+769,53,Male,Single,2450,Veteran,Low,3,6,3,"Life Sciences",2
+771,35,Female,Divorced,5093,Mid,Medium,4,2,4,"Life Sciences",1
+772,32,Male,Married,5309,Mid,Medium,3,24,4,"Life Sciences",10
+773,38,Male,Married,3057,Senior,Low,1,2,5,Medical,1
+775,34,Female,Divorced,5121,Mid,Medium,3,8,5,"Life Sciences",0
+776,52,Male,Married,16856,Veteran,High,4,3,4,Marketing,34
+780,33,Male,Single,2686,Mid,Low,2,1,4,Other,10
+781,25,Female,Single,6180,Young,Medium,2,26,1,Medical,6
+783,45,Male,Single,6632,Senior,Medium,3,2,2,"Technical Degree",8
+784,23,Male,Single,3505,Young,Low,3,10,1,Medical,2
+785,47,Female,Single,6397,Senior,Medium,3,27,2,"Life Sciences",5
+786,34,Male,Single,6274,Mid,Medium,3,2,3,Other,6
+787,55,Male,Married,19859,Veteran,High,3,2,3,Medical,5
+789,36,Male,Single,7587,Senior,Medium,3,8,4,"Life Sciences",10
+791,52,Male,Married,4258,Veteran,Low,3,19,4,Medical,4
+792,26,Female,Divorced,4364,Mid,Low,3,1,2,"Life Sciences",2
+793,29,Female,Married,4335,Mid,Low,2,27,3,Medical,8
+796,26,Male,Single,5326,Mid,Medium,2,8,3,"Technical Degree",4
+797,34,Female,Single,3280,Mid,Low,3,1,4,"Life Sciences",4
+799,54,Female,Divorced,5485,Veteran,Medium,3,19,4,Medical,5
+800,27,Male,Married,4342,Mid,Low,3,8,1,Marketing,4
+802,37,Female,Divorced,2782,Senior,Low,2,10,1,"Life Sciences",5
+803,38,Female,Single,5980,Senior,Medium,3,2,4,"Life Sciences",15
+804,34,Female,Single,4381,Mid,Low,3,2,4,Medical,6
+805,35,Female,Married,2572,Mid,Low,2,8,4,"Life Sciences",3
+806,30,Male,Married,3833,Mid,Low,3,1,3,"Life Sciences",2
+807,40,Female,Married,4244,Senior,Low,3,2,2,Medical,8
+808,34,Female,Married,6500,Mid,Medium,3,8,2,"Life Sciences",3
+809,42,Male,Divorced,18430,Senior,High,2,8,3,"Life Sciences",24
+811,23,Male,Married,1601,Young,Low,3,6,3,"Life Sciences",0
+812,24,Male,Divorced,2694,Young,Low,3,9,3,"Life Sciences",1
+813,52,Female,Married,3149,Veteran,Low,3,11,4,"Life Sciences",5
+815,50,Male,Married,17639,Senior,High,3,2,3,Medical,4
+816,29,Female,Married,2319,Mid,Low,3,1,2,"Life Sciences",1
+817,33,Male,Married,11691,Mid,High,4,7,3,Medical,13
+819,33,Female,Single,5324,Mid,Medium,3,16,3,Marketing,3
+820,47,Female,Married,16752,Senior,High,2,2,2,Other,26
+823,36,Female,Married,5228,Senior,Medium,3,1,3,Other,9
+824,29,Male,Married,2700,Mid,Low,3,23,2,"Life Sciences",10
+825,58,Male,Single,19246,Veteran,High,3,2,4,"Life Sciences",31
+826,35,Female,Single,2506,Mid,Low,3,1,4,"Life Sciences",2
+827,42,Female,Married,6062,Senior,Medium,3,1,2,"Life Sciences",4
+828,28,Male,Single,4382,Mid,Low,2,2,4,Medical,2
+829,36,Male,Married,2143,Senior,Low,3,13,3,"Human Resources",5
+830,32,Female,Married,6162,Mid,Medium,3,4,3,"Life Sciences",14
+832,40,Male,Single,5094,Senior,Medium,3,16,4,Medical,1
+833,30,Female,Single,6877,Mid,Medium,2,2,3,Medical,0
+834,45,Female,Single,2274,Senior,Low,3,2,3,"Life Sciences",1
+836,42,Male,Married,4434,Senior,Low,2,29,3,"Life Sciences",9
+837,38,Male,Divorced,6288,Senior,Medium,2,12,3,"Life Sciences",4
+838,34,Female,Single,2553,Mid,Low,3,16,4,"Life Sciences",5
+840,49,Female,Married,7654,Senior,Medium,4,11,3,Marketing,9
+842,55,Male,Single,5160,Veteran,Medium,2,2,1,Medical,9
+843,43,Male,Married,17159,Senior,High,3,14,2,"Life Sciences",4
+844,27,Male,Divorced,12808,Mid,High,3,5,1,"Technical Degree",9
+845,35,Male,Single,10221,Mid,High,4,7,3,Other,8
+846,28,Female,Married,4779,Mid,Low,3,2,4,Marketing,8
+847,34,Male,Married,3737,Mid,Low,1,3,2,"Human Resources",3
+848,26,Female,Married,2366,Mid,Low,3,5,2,Medical,8
+850,27,Male,Married,1706,Mid,Low,2,3,3,Medical,0
+851,51,Female,Married,16307,Veteran,High,2,26,4,Marketing,20
+852,44,Male,Single,5933,Senior,Medium,2,4,3,Medical,5
+854,25,Male,Single,3424,Young,Low,2,2,1,Medical,4
+855,33,Male,Divorced,4037,Mid,Low,3,1,3,Medical,9
+856,35,Female,Single,2559,Mid,Low,2,27,1,Medical,6
+857,36,Male,Married,6201,Senior,Medium,2,1,2,"Life Sciences",18
+859,32,Male,Divorced,4403,Mid,Low,2,13,4,"Life Sciences",5
+861,30,Male,Divorced,3761,Mid,Low,2,5,4,"Life Sciences",5
+862,53,Female,Married,10934,Veteran,High,3,7,2,Marketing,5
+864,45,Male,Divorced,10761,Senior,High,3,9,3,Marketing,5
+865,32,Female,Married,5175,Mid,Medium,2,8,2,Medical,5
+867,52,Female,Married,13826,Veteran,High,3,25,4,Medical,9
+868,37,Male,Divorced,6334,Senior,Medium,3,16,4,Marketing,1
+869,28,Male,Divorced,4936,Mid,Low,3,8,2,Medical,5
+872,22,Male,Married,4775,Young,Low,1,1,2,"Life Sciences",2
+874,44,Male,Married,2818,Senior,Low,2,8,4,"Life Sciences",3
+875,42,Male,Single,2515,Senior,Low,3,2,1,Medical,2
+878,36,Male,Married,2342,Senior,Low,3,8,3,"Life Sciences",5
+879,25,Male,Married,4194,Young,Low,3,3,1,Other,5
+880,35,Female,Married,10685,Mid,High,3,9,3,"Life Sciences",17
+881,35,Female,Divorced,2022,Mid,Low,2,25,4,"Life Sciences",10
+882,32,Male,Divorced,2314,Mid,Low,3,1,3,"Life Sciences",3
+885,25,Male,Married,4256,Young,Low,4,4,1,Marketing,5
+887,49,Female,Married,3580,Senior,Low,3,1,3,"Technical Degree",4
+888,24,Male,Married,3162,Young,Low,2,4,1,"Life Sciences",5
+889,32,Male,Married,6524,Mid,Medium,3,5,2,"Life Sciences",10
+893,38,Male,Married,2899,Senior,Low,3,9,3,Marketing,2
+894,42,Female,Married,5231,Senior,Medium,2,3,3,"Life Sciences",5
+895,31,Male,Married,2356,Mid,Low,3,11,4,"Life Sciences",6
+896,29,Female,Divorced,2800,Mid,Low,3,1,3,Medical,3
+897,53,Male,Married,11836,Veteran,High,3,8,3,Marketing,2
+899,35,Male,Married,10903,Mid,High,3,25,3,"Technical Degree",13
+900,37,Female,Married,2973,Senior,Low,3,21,2,Medical,5
+901,53,Female,Single,14275,Veteran,High,3,23,4,"Life Sciences",12
+902,43,Female,Married,5562,Senior,Medium,2,1,3,"Life Sciences",5
+903,47,Female,Married,4537,Senior,Low,3,2,2,Marketing,7
+904,37,Male,Single,7642,Senior,Medium,3,19,2,Medical,10
+905,50,Male,Divorced,17924,Senior,High,3,2,4,"Life Sciences",31
+909,39,Female,Married,5204,Senior,Medium,3,2,3,"Life Sciences",5
+910,33,Male,Divorced,2277,Mid,Low,4,3,2,"Human Resources",4
+911,32,Male,Single,2795,Mid,Low,1,25,4,"Life Sciences",1
+912,29,Female,Divorced,2532,Mid,Low,3,7,1,Medical,4
+913,44,Male,Married,2559,Senior,Low,3,9,2,"Life Sciences",8
+916,28,Male,Single,4908,Mid,Low,3,5,4,Medical,4
+918,58,Male,Divorced,2380,Veteran,Low,2,2,1,"Life Sciences",1
+920,43,Female,Divorced,4765,Senior,Low,4,8,3,"Life Sciences",1
+922,20,Female,Single,2044,Young,Low,2,2,3,Medical,2
+923,21,Female,Single,2693,Young,Low,2,18,1,Other,1
+924,36,Male,Married,6586,Senior,Medium,2,14,1,"Life Sciences",16
+925,47,Female,Single,3294,Senior,Low,2,2,4,"Life Sciences",3
+926,22,Female,Married,4171,Young,Low,4,3,1,"Life Sciences",3
+927,41,Female,Divorced,2778,Senior,Low,2,2,4,"Life Sciences",7
+930,28,Female,Divorced,2377,Mid,Low,3,9,3,Medical,2
+932,39,Male,Married,2404,Senior,Low,1,6,3,Medical,2
+933,27,Female,Single,2318,Mid,Low,3,4,3,"Life Sciences",1
+934,34,Male,Divorced,2008,Mid,Low,3,10,3,"Life Sciences",1
+936,42,Female,Single,6244,Senior,Medium,3,14,2,Medical,5
+939,33,Male,Single,2799,Mid,Low,3,1,4,Other,3
+940,58,Female,Divorced,10552,Veteran,High,3,5,3,"Technical Degree",6
+941,31,Male,Married,2329,Mid,Low,4,7,4,"Life Sciences",7
+942,35,Female,Married,4014,Mid,Low,1,21,1,"Life Sciences",10
+944,49,Female,Married,7403,Senior,Medium,2,8,2,Other,26
+945,48,Male,Married,2259,Senior,Low,2,20,4,Medical,0
+947,31,Female,Married,6932,Mid,Medium,2,20,2,Marketing,9
+949,36,Male,Single,4678,Senior,Low,3,7,4,Other,6
+950,38,Female,Married,13582,Senior,High,3,1,3,"Technical Degree",15
+951,32,Female,Married,2332,Mid,Low,3,1,3,"Life Sciences",3
+952,25,Male,Married,2413,Young,Low,3,19,2,Marketing,1
+954,40,Male,Divorced,9705,Senior,Medium,2,10,4,Marketing,1
+956,26,Male,Single,4294,Mid,Low,3,1,3,Medical,7
+957,41,Male,Single,4721,Senior,Low,3,6,3,Medical,18
+958,36,Male,Single,2519,Senior,Low,3,2,4,Medical,11
+959,19,Male,Single,2121,Young,Low,4,21,3,Other,1
+960,20,Male,Single,2973,Young,Low,3,4,3,"Technical Degree",1
+961,31,Female,Married,5855,Mid,Medium,1,12,3,Medical,9
+964,40,Male,Divorced,3617,Senior,Low,3,9,4,Medical,1
+966,32,Female,Married,6725,Mid,Medium,4,3,4,Medical,8
+967,36,Male,Married,10325,Senior,High,3,3,1,"Life Sciences",16
+969,33,Female,Single,6949,Mid,Medium,3,1,3,"Life Sciences",5
+970,37,Male,Married,10609,Senior,High,1,1,4,"Life Sciences",14
+972,45,Male,Married,4447,Senior,Low,2,4,2,"Life Sciences",9
+974,29,Female,Married,2157,Mid,Low,3,20,3,"Technical Degree",3
+975,35,Female,Married,4601,Mid,Low,3,18,3,Medical,5
+976,52,Male,Married,17099,Veteran,High,2,1,2,"Life Sciences",9
+977,58,Male,Single,2479,Veteran,Low,3,2,3,"Technical Degree",1
+981,53,Male,Divorced,14852,Veteran,High,4,2,2,Medical,17
+982,30,Male,Divorced,7264,Mid,Medium,4,8,2,Other,8
+983,38,Female,Single,5666,Senior,Medium,3,10,3,"Technical Degree",5
+984,35,Male,Divorced,7823,Mid,Medium,3,3,4,"Life Sciences",10
+985,39,Male,Single,7880,Senior,Medium,3,2,5,"Life Sciences",8
+986,40,Female,Single,13194,Senior,High,2,24,3,"Life Sciences",1
+987,47,Male,Divorced,5067,Senior,Medium,4,16,4,Medical,19
+990,36,Male,Divorced,5079,Senior,Medium,3,8,4,"Technical Degree",7
+991,31,Male,Single,2321,Mid,Low,3,9,2,Medical,3
+992,33,Male,Single,17444,Mid,High,3,17,3,"Life Sciences",10
+994,29,Female,Single,2404,Mid,Low,3,10,3,"Life Sciences",0
+995,33,Female,Single,3452,Mid,Low,3,13,1,"Life Sciences",3
+996,45,Female,Divorced,2270,Senior,Low,3,1,4,Medical,5
+997,50,Male,Divorced,17399,Senior,High,2,1,2,Medical,5
+998,33,Female,Married,5488,Mid,Medium,3,1,4,Other,6
+999,41,Male,Divorced,19419,Senior,High,4,9,3,Medical,18
+1001,27,Female,Married,2811,Mid,Low,3,16,4,"Technical Degree",2
+1002,45,Male,Married,3633,Senior,Low,3,23,2,"Life Sciences",9
+1003,47,Female,Single,4163,Senior,Low,3,4,2,"Life Sciences",9
+1004,30,Female,Married,2132,Mid,Low,3,22,3,"Life Sciences",5
+1005,50,Male,Married,13973,Senior,High,3,24,3,"Life Sciences",12
+1006,38,Male,Married,2684,Senior,Low,2,10,1,Medical,2
+1007,46,Male,Divorced,10845,Senior,High,3,7,2,Medical,8
+1009,24,Female,Divorced,4377,Young,Low,3,17,1,Medical,4
+1010,35,Male,Divorced,3743,Mid,Low,1,14,4,Other,4
+1011,31,Female,Married,4148,Mid,Low,3,1,1,"Life Sciences",4
+1012,18,Male,Single,1051,Young,Low,3,5,2,"Life Sciences",0
+1013,54,Female,Married,10739,Veteran,High,3,17,3,"Technical Degree",10
+1014,35,Female,Divorced,10388,Mid,High,2,25,4,Medical,16
+1015,30,Female,Married,11416,Mid,High,2,8,2,"Life Sciences",8
+1016,20,Female,Single,2600,Young,Low,3,11,3,Medical,1
+1017,30,Female,Single,2422,Mid,Low,3,5,3,Medical,3
+1018,26,Male,Married,5472,Mid,Medium,3,2,2,Medical,8
+1019,22,Male,Married,2451,Young,Low,2,8,1,"Life Sciences",4
+1022,48,Male,Single,4240,Senior,Low,3,6,3,"Life Sciences",2
+1024,48,Male,Single,10999,Senior,High,3,4,4,"Life Sciences",15
+1025,41,Female,Single,5003,Senior,Medium,3,7,2,Medical,2
+1026,39,Female,Married,12742,Senior,High,3,1,1,"Life Sciences",21
+1027,27,Female,Married,4227,Mid,Low,3,2,4,"Life Sciences",3
+1028,35,Male,Divorced,3917,Mid,Low,2,10,3,Other,3
+1029,42,Male,Married,18303,Senior,High,4,5,2,Marketing,1
+1030,50,Male,Married,2380,Senior,Low,3,9,3,"Life Sciences",1
+1032,59,Female,Single,13726,Veteran,High,3,2,3,"Life Sciences",5
+1033,37,Female,Married,4777,Senior,Low,1,11,2,Medical,1
+1034,55,Male,Married,6385,Veteran,Medium,3,18,4,Medical,8
+1035,41,Female,Divorced,19973,Senior,High,3,7,1,"Life Sciences",21
+1036,38,Male,Single,6861,Senior,Medium,3,3,4,"Life Sciences",1
+1037,26,Male,Single,4969,Mid,Low,3,29,2,Medical,2
+1038,52,Female,Married,19845,Veteran,High,3,2,1,Marketing,32
+1039,44,Female,Married,13320,Senior,High,3,28,3,Medical,12
+1040,50,Female,Married,6347,Senior,Medium,3,1,3,"Life Sciences",18
+1042,36,Female,Single,2743,Senior,Low,3,16,4,"Life Sciences",17
+1043,39,Female,Single,10880,Senior,High,3,22,3,Medical,21
+1044,33,Female,Single,2342,Mid,Low,2,8,1,"Life Sciences",2
+1045,45,Female,Married,17650,Senior,High,4,11,2,"Life Sciences",9
+1046,32,Female,Single,4025,Mid,Low,3,29,4,Medical,8
+1047,34,Male,Divorced,9725,Mid,Medium,2,1,4,Marketing,15
+1048,59,Male,Married,11904,Veteran,High,1,1,2,"Technical Degree",6
+1049,45,Male,Single,2177,Senior,Low,3,24,4,Medical,6
+1050,53,Female,Married,7525,Veteran,Medium,3,2,3,Marketing,15
+1052,36,Male,Divorced,4834,Senior,Low,2,15,3,Other,1
+1053,26,Male,Married,2042,Mid,Low,3,2,3,"Life Sciences",3
+1055,34,Female,Married,2220,Mid,Low,3,10,4,"Life Sciences",1
+1056,28,Male,Married,1052,Mid,Low,3,10,1,Medical,1
+1060,38,Male,Married,2821,Senior,Low,3,3,4,Other,2
+1061,50,Male,Married,19237,Senior,High,2,2,4,Medical,8
+1062,37,Female,Single,4107,Senior,Low,2,3,3,Other,4
+1066,40,Male,Married,8396,Senior,Medium,2,26,3,Marketing,7
+1068,26,Female,Divorced,2007,Mid,Low,3,1,1,Medical,5
+1069,46,Male,Divorced,19627,Senior,High,3,1,4,Medical,2
+1070,54,Female,Married,10686,Veteran,High,3,2,4,"Life Sciences",9
+1071,56,Female,Married,2942,Veteran,Low,3,9,3,Medical,5
+1073,36,Female,Single,8858,Senior,Medium,2,12,5,Medical,14
+1074,55,Male,Single,16756,Veteran,High,4,2,1,Medical,9
+1076,43,Male,Divorced,10798,Senior,High,3,25,3,Medical,1
+1077,20,Female,Single,2323,Young,Low,3,9,3,Marketing,2
+1079,21,Female,Single,1416,Young,Low,2,10,3,"Life Sciences",1
+1080,46,Female,Divorced,4615,Senior,Low,3,8,4,"Life Sciences",16
+1081,51,Male,Married,2461,Veteran,Low,4,4,4,"Life Sciences",10
+1082,28,Male,Single,8722,Mid,Medium,2,24,2,"Technical Degree",10
+1083,26,Male,Married,3955,Mid,Low,3,1,2,Medical,5
+1084,30,Male,Married,9957,Mid,Medium,2,20,3,Other,6
+1085,41,Female,Married,3376,Senior,Low,3,7,2,"Technical Degree",10
+1088,38,Female,Married,8823,Senior,Medium,2,17,1,"Life Sciences",19
+1092,40,Male,Married,10322,Senior,High,3,20,4,"Technical Degree",11
+1094,27,Male,Married,4621,Mid,Low,3,8,5,"Life Sciences",3
+1096,55,Male,Married,10976,Veteran,High,3,2,1,"Life Sciences",3
+1097,28,Female,Single,3660,Mid,Low,4,10,3,Other,8
+1098,44,Male,Married,10482,Senior,High,3,1,2,Medical,20
+1099,33,Male,Divorced,7119,Mid,Medium,3,5,3,"Life Sciences",3
+1100,35,Male,Single,9582,Mid,Medium,3,4,3,"Technical Degree",8
+1101,33,Female,Single,4508,Mid,Low,3,29,4,Medical,13
+1102,28,Male,Divorced,2207,Mid,Low,2,15,2,"Life Sciences",4
+1103,34,Male,Single,7756,Mid,Medium,2,3,1,"Life Sciences",6
+1105,37,Female,Divorced,6694,Senior,Medium,3,10,4,"Life Sciences",1
+1106,25,Male,Married,3691,Young,Low,4,4,1,"Technical Degree",7
+1107,26,Male,Divorced,2377,Mid,Low,2,21,3,Medical,1
+1108,33,Male,Single,2313,Mid,Low,3,25,3,Medical,2
+1109,42,Male,Married,17665,Senior,High,3,2,2,Medical,22
+1111,28,Male,Divorced,2596,Mid,Low,3,1,3,Medical,1
+1113,50,Male,Single,4728,Senior,Low,3,1,4,Other,0
+1114,33,Female,Married,4302,Mid,Low,3,7,3,"Life Sciences",3
+1115,34,Male,Married,2979,Mid,Low,3,3,4,"Life Sciences",0
+1116,48,Male,Single,16885,Senior,High,2,1,4,Medical,5
+1117,45,Female,Married,5593,Senior,Medium,3,9,4,"Life Sciences",15
+1118,52,Male,Single,10445,Veteran,High,3,7,4,"Life Sciences",8
+1119,38,Male,Divorced,8740,Senior,Medium,3,10,4,Marketing,8
+1120,29,Female,Divorced,2514,Mid,Low,3,28,4,"Life Sciences",7
+1121,28,Female,Divorced,7655,Mid,Medium,2,3,3,Medical,9
+1124,46,Male,Married,17465,Senior,High,3,3,1,Marketing,12
+1125,38,Male,Single,7351,Senior,Medium,3,2,2,Marketing,1
+1126,43,Female,Married,10820,Senior,High,3,27,3,"Life Sciences",8
+1127,39,Male,Divorced,12169,Senior,High,3,2,3,"Life Sciences",18
+1128,40,Male,Single,19626,Senior,High,4,14,3,Medical,20
+1131,21,Female,Single,2070,Young,Low,4,1,1,"Technical Degree",2
+1132,39,Male,Single,6782,Senior,Medium,2,9,3,"Life Sciences",5
+1133,36,Male,Single,7779,Senior,Medium,3,18,4,"Life Sciences",11
+1135,31,Male,Married,2791,Mid,Low,3,20,3,"Life Sciences",2
+1136,28,Male,Married,3201,Mid,Low,1,2,1,"Life Sciences",5
+1137,35,Male,Divorced,4968,Mid,Low,3,11,2,Marketing,5
+1138,49,Male,Married,13120,Senior,High,3,8,4,"Technical Degree",9
+1140,34,Male,Single,4033,Mid,Low,2,2,2,"Life Sciences",3
+1143,29,Female,Divorced,3291,Mid,Low,2,10,3,"Life Sciences",7
+1148,42,Male,Single,4272,Senior,Low,3,29,3,Medical,1
+1150,29,Male,Married,5056,Mid,Medium,2,8,1,Medical,10
+1152,38,Male,Married,2844,Senior,Low,4,1,3,"Human Resources",7
+1154,28,Male,Divorced,2703,Mid,Low,3,6,3,"Life Sciences",3
+1156,18,Male,Single,1904,Young,Low,3,8,1,Medical,0
+1157,33,Female,Single,8224,Mid,Medium,3,9,4,Marketing,5
+1158,41,Male,Married,4766,Senior,Low,3,12,4,"Life Sciences",1
+1160,31,Male,Married,2610,Mid,Low,2,15,3,Medical,2
+1161,37,Female,Divorced,5731,Senior,Medium,3,25,2,Medical,6
+1162,27,Male,Married,2539,Mid,Low,3,6,3,"Life Sciences",4
+1163,34,Female,Married,5714,Mid,Medium,2,9,1,"Life Sciences",6
+1164,35,Male,Single,4323,Mid,Low,1,8,4,"Technical Degree",5
+1165,29,Female,Married,7336,Mid,Medium,1,23,1,"Life Sciences",11
+1166,40,Female,Single,13499,Senior,High,2,9,4,Medical,18
+1167,42,Male,Single,13758,Senior,High,2,12,3,"Life Sciences",21
+1171,42,Male,Single,5155,Senior,Medium,4,4,4,Marketing,6
+1172,35,Male,Married,2258,Mid,Low,3,1,4,Medical,8
+1173,24,Male,Single,3597,Young,Low,3,24,3,Medical,4
+1175,28,Female,Married,2515,Mid,Low,2,12,1,"Life Sciences",1
+1177,26,Male,Married,4420,Mid,Low,3,3,4,Medical,8
+1179,30,Male,Married,6578,Mid,Medium,3,10,3,Marketing,10
+1180,40,Female,Married,4422,Senior,Low,1,26,2,Medical,1
+1182,35,Male,Divorced,10274,Mid,High,4,2,3,"Life Sciences",7
+1184,34,Male,Single,5343,Mid,Medium,3,1,3,Medical,13
+1185,35,Male,Married,2376,Mid,Low,4,4,4,Other,2
+1188,43,Female,Single,5346,Senior,Medium,2,9,3,Marketing,4
+1190,32,Female,Divorced,2827,Mid,Low,3,2,1,"Life Sciences",1
+1191,56,Female,Divorced,19943,Veteran,High,3,4,4,"Technical Degree",5
+1192,29,Female,Married,3131,Mid,Low,3,6,1,Medical,10
+1193,19,Male,Single,2552,Young,Low,3,9,2,"Life Sciences",1
+1195,45,Female,Married,4477,Senior,Low,2,7,3,Medical,3
+1196,37,Female,Married,6474,Senior,Medium,2,1,3,"Life Sciences",14
+1198,20,Male,Single,3033,Young,Low,2,3,3,"Life Sciences",2
+1200,44,Male,Single,2936,Senior,Low,3,10,4,"Life Sciences",6
+1201,53,Female,Divorced,18606,Veteran,High,3,7,2,Medical,7
+1202,29,Female,Married,2168,Mid,Low,2,15,1,"Life Sciences",5
+1203,22,Male,Married,2853,Young,Low,3,3,4,"Life Sciences",0
+1204,46,Female,Married,17048,Senior,High,3,2,3,Marketing,26
+1206,44,Male,Single,2290,Senior,Low,3,17,3,"Life Sciences",0
+1207,33,Male,Married,3600,Mid,Low,3,2,3,"Human Resources",5
+1210,41,Male,Divorced,2107,Senior,Low,1,5,2,"Life Sciences",1
+1211,30,Male,Divorced,4115,Mid,Low,3,29,4,"Life Sciences",4
+1212,40,Male,Married,4327,Senior,Low,3,2,4,Medical,0
+1215,50,Female,Married,17856,Senior,High,3,2,3,Medical,2
+1216,28,Male,Married,3196,Mid,Low,3,19,4,Medical,6
+1217,46,Male,Married,19081,Senior,High,3,15,2,"Life Sciences",4
+1218,35,Male,Married,8966,Mid,Medium,3,17,4,"Life Sciences",7
+1219,24,Female,Married,2210,Young,Low,1,17,2,"Life Sciences",1
+1220,33,Female,Married,4539,Mid,Low,2,25,3,Medical,10
+1221,36,Male,Divorced,2741,Senior,Low,3,6,4,"Life Sciences",7
+1224,30,Male,Divorced,3491,Mid,Low,2,7,4,"Life Sciences",10
+1225,44,Male,Single,4541,Senior,Low,3,29,4,Other,20
+1226,20,Male,Single,2678,Young,Low,3,21,3,Marketing,2
+1228,46,Male,Divorced,7379,Senior,Medium,2,2,4,"Technical Degree",6
+1231,42,Male,Married,6272,Senior,Medium,4,2,5,Medical,4
+1233,60,Male,Divorced,5220,Veteran,Medium,3,7,4,Marketing,11
+1234,32,Female,Married,2743,Mid,Low,3,13,3,Other,2
+1235,32,Female,Single,4998,Mid,Low,3,2,2,"Life Sciences",8
+1237,36,Female,Divorced,10252,Senior,High,3,1,3,"Technical Degree",7
+1238,33,Male,Married,2781,Mid,Low,3,9,3,Medical,14
+1239,40,Female,Divorced,6852,Senior,Medium,4,10,3,"Technical Degree",5
+1240,25,Male,Single,4950,Young,Low,3,10,4,"Life Sciences",4
+1241,30,Male,Married,3579,Mid,Low,3,1,3,Medical,11
+1242,42,Female,Married,13191,Senior,High,3,26,5,Medical,1
+1243,35,Female,Married,10377,Mid,High,2,8,2,Marketing,13
+1244,27,Male,Married,2235,Mid,Low,2,14,3,"Life Sciences",9
+1245,54,Female,Divorced,10502,Veteran,High,1,1,4,"Life Sciences",5
+1246,44,Female,Married,2011,Senior,Low,3,2,1,"Life Sciences",10
+1248,19,Female,Single,1859,Young,Low,4,10,3,Medical,1
+1249,29,Female,Divorced,3760,Mid,Low,3,1,3,"Life Sciences",3
+1250,54,Male,Married,17779,Veteran,High,3,3,3,"Life Sciences",10
+1251,31,Male,Married,6833,Mid,Medium,2,11,2,Medical,6
+1252,31,Female,Single,6812,Mid,Medium,3,24,3,Medical,10
+1254,59,Female,Single,5171,Veteran,Medium,3,3,3,"Life Sciences",6
+1255,43,Male,Married,19740,Senior,High,3,3,3,"Life Sciences",8
+1256,49,Male,Married,18711,Senior,High,4,4,2,Medical,1
+1257,36,Male,Married,3692,Senior,Low,2,3,3,"Technical Degree",11
+1258,48,Male,Single,2559,Senior,Low,2,2,2,"Technical Degree",1
+1259,27,Male,Divorced,2517,Mid,Low,3,4,2,"Life Sciences",5
+1260,29,Male,Divorced,6623,Mid,Medium,3,7,3,"Life Sciences",6
+1263,48,Male,Single,18265,Senior,High,4,1,3,"Life Sciences",1
+1264,29,Female,Divorced,16124,Mid,High,2,1,3,"Life Sciences",7
+1265,34,Female,Married,2585,Mid,Low,2,20,3,"Technical Degree",1
+1267,44,Male,Married,18213,Senior,High,3,5,3,Marketing,22
+1268,33,Male,Divorced,8380,Mid,Medium,3,10,5,Marketing,9
+1269,19,Female,Single,2994,Young,Low,3,25,3,"Life Sciences",1
+1270,23,Male,Married,1223,Young,Low,3,1,2,"Life Sciences",1
+1273,25,Male,Single,1118,Young,Low,3,24,1,"Life Sciences",1
+1275,26,Male,Single,2875,Mid,Low,2,4,2,"Life Sciences",8
+1277,45,Female,Single,18824,Senior,High,3,2,3,Marketing,24
+1278,55,Male,Divorced,13577,Veteran,High,3,8,1,Medical,33
+1279,21,Female,Single,2625,Young,Low,1,10,2,"Life Sciences",2
+1280,46,Female,Married,18789,Senior,High,3,4,2,Marketing,11
+1281,34,Female,Single,4538,Mid,Low,3,2,3,Marketing,3
+1282,51,Male,Divorced,19847,Veteran,High,2,9,3,"Life Sciences",29
+1283,59,Male,Single,10512,Veteran,High,2,18,4,Medical,9
+1285,34,Female,Divorced,4444,Mid,Low,4,19,3,Medical,11
+1286,28,Male,Single,2154,Mid,Low,2,1,4,Medical,4
+1288,44,Male,Divorced,19190,Senior,High,2,4,2,"Life Sciences",25
+1289,34,Male,Married,4490,Mid,Low,4,11,3,"Life Sciences",10
+1291,35,Male,Married,3506,Mid,Low,3,6,1,"Life Sciences",3
+1292,42,Female,Married,2372,Senior,Low,3,7,4,Medical,1
+1293,43,Female,Single,10231,Senior,High,4,4,4,Marketing,21
+1294,36,Female,Single,5410,Senior,Medium,3,2,4,"Life Sciences",16
+1295,44,Female,Married,7978,Senior,Medium,3,15,3,Medical,10
+1296,28,Male,Married,3867,Mid,Low,3,2,3,"Life Sciences",2
+1297,51,Female,Single,2838,Veteran,Low,2,6,2,Medical,7
+1298,30,Female,Single,4695,Mid,Low,3,9,2,Medical,8
+1299,29,Female,Divorced,3339,Mid,Low,3,7,3,"Technical Degree",7
+1301,28,Male,Single,2080,Mid,Low,2,1,3,"Technical Degree",3
+1303,25,Female,Single,2096,Young,Low,2,1,3,Medical,2
+1304,32,Male,Married,6209,Mid,Medium,4,8,3,Medical,10
+1306,45,Female,Single,18061,Senior,High,3,25,3,Medical,0
+1307,39,Female,Divorced,17123,Senior,High,3,13,4,Medical,19
+1308,58,Male,Divorced,2372,Veteran,Low,3,23,4,"Life Sciences",2
+1309,32,Male,Married,4883,Mid,Low,3,7,2,"Life Sciences",10
+1310,39,Male,Single,3904,Senior,Low,3,23,3,Medical,5
+1311,30,Female,Married,4627,Mid,Low,3,6,3,"Technical Degree",9
+1312,36,Female,Married,7094,Senior,Medium,3,10,4,"Technical Degree",7
+1314,46,Female,Single,3423,Senior,Low,4,1,2,"Life Sciences",7
+1315,28,Female,Married,6674,Mid,Medium,3,1,3,"Life Sciences",9
+1317,50,Female,Married,16880,Senior,High,3,28,3,"Life Sciences",3
+1318,40,Male,Single,9094,Senior,Medium,3,25,4,Marketing,5
+1319,52,Male,Single,8446,Veteran,Medium,2,5,3,"Life Sciences",8
+1321,30,Female,Married,11916,Mid,High,3,17,4,Medical,9
+1322,39,Male,Single,4534,Senior,Low,3,18,2,"Life Sciences",8
+1324,31,Female,Divorced,9852,Mid,Medium,2,2,4,"Life Sciences",10
+1329,41,Male,Single,6151,Senior,Medium,3,10,2,Medical,19
+1331,31,Female,Single,2302,Mid,Low,4,1,3,"Life Sciences",3
+1333,44,Male,Married,2362,Senior,Low,4,3,3,"Life Sciences",3
+1334,42,Male,Married,17861,Senior,High,2,2,1,"Life Sciences",20
+1336,55,Female,Married,19187,Veteran,High,3,2,2,Medical,19
+1338,56,Male,Single,19717,Veteran,High,3,8,4,"Life Sciences",7
+1340,40,Male,Divorced,3544,Senior,Low,3,16,2,"Life Sciences",4
+1344,34,Male,Divorced,8500,Mid,Medium,2,9,3,"Life Sciences",9
+1346,40,Male,Single,4661,Senior,Low,3,2,3,"Life Sciences",9
+1349,41,Female,Divorced,4103,Senior,Low,3,1,3,Marketing,9
+1350,35,Male,Single,4249,Mid,Low,3,4,4,"Life Sciences",9
+1352,51,Male,Divorced,14026,Veteran,High,3,5,3,"Life Sciences",33
+1355,38,Female,Divorced,6893,Senior,Medium,3,2,2,"Life Sciences",7
+1356,34,Female,Single,6125,Mid,Medium,4,15,2,Medical,10
+1358,25,Male,Married,3669,Young,Low,2,19,1,Medical,3
+1360,58,Female,Married,10008,Veteran,High,2,7,4,Medical,10
+1361,40,Male,Married,2387,Senior,Low,3,1,4,"Life Sciences",4
+1362,36,Female,Married,4639,Senior,Low,2,7,3,Marketing,15
+1363,48,Male,Single,7898,Senior,Medium,3,4,3,"Life Sciences",10
+1364,27,Female,Married,2534,Mid,Low,3,11,3,Medical,1
+1367,51,Female,Single,13142,Veteran,High,2,11,2,"Technical Degree",5
+1368,18,Female,Single,1611,Young,Low,4,1,3,"Life Sciences",0
+1369,35,Female,Married,5363,Mid,Medium,3,1,3,Medical,9
+1371,27,Male,Single,5071,Mid,Medium,3,2,1,"Life Sciences",6
+1372,55,Male,Single,13695,Veteran,High,2,13,4,Marketing,19
+1373,56,Male,Married,13402,Veteran,High,3,23,3,"Life Sciences",19
+1374,34,Female,Divorced,2029,Mid,Low,3,26,1,"Technical Degree",5
+1375,40,Female,Divorced,6377,Senior,Medium,3,2,1,Medical,12
+1377,34,Male,Married,5429,Mid,Medium,3,29,3,Medical,8
+1379,31,Female,Single,2785,Mid,Low,4,2,3,"Life Sciences",1
+1380,35,Female,Married,4614,Mid,Low,2,18,4,Marketing,4
+1382,38,Male,Divorced,2610,Senior,Low,3,7,3,"Life Sciences",4
+1383,34,Female,Single,6687,Mid,Medium,4,2,4,"Technical Degree",14
+1387,28,Male,Married,4724,Mid,Low,3,26,3,"Life Sciences",5
+1389,31,Male,Married,6179,Mid,Medium,2,22,4,Medical,10
+1390,39,Male,Married,6120,Senior,Medium,4,21,4,"Life Sciences",5
+1391,51,Male,Married,10596,Veteran,High,3,2,3,Marketing,4
+1392,41,Female,Divorced,5467,Senior,Medium,2,22,3,"Life Sciences",6
+1394,37,Male,Married,2996,Senior,Low,3,4,1,"Life Sciences",6
+1395,33,Male,Married,9998,Mid,Medium,4,5,1,"Life Sciences",5
+1396,32,Male,Married,4078,Mid,Low,2,2,1,Marketing,3
+1397,39,Male,Married,10920,Senior,High,3,25,2,"Life Sciences",6
+1399,25,Male,Married,6232,Young,Medium,2,18,1,"Life Sciences",3
+1401,52,Female,Married,13247,Veteran,High,2,28,2,Medical,5
+1402,43,Female,Single,4081,Senior,Low,1,6,3,Medical,20
+1403,27,Female,Married,5769,Mid,Medium,3,10,3,Marketing,6
+1405,27,Female,Single,2394,Mid,Low,3,17,4,"Life Sciences",8
+1407,26,Male,Single,3904,Mid,Low,3,2,1,Medical,4
+1408,42,Female,Married,16799,Senior,High,3,10,3,"Human Resources",20
+1409,52,Female,Married,2950,Veteran,Low,1,8,4,Other,5
+1411,37,Female,Single,3629,Senior,Low,3,11,3,Medical,3
+1412,35,Male,Single,9362,Mid,Medium,3,18,2,"Life Sciences",2
+1415,25,Male,Married,3229,Young,Low,2,1,3,"Technical Degree",3
+1417,26,Male,Single,3578,Mid,Low,3,7,3,Other,7
+1419,29,Male,Single,7988,Mid,Medium,2,17,3,Other,10
+1420,49,Male,Single,4284,Senior,Low,3,28,2,"Life Sciences",4
+1421,29,Female,Single,7553,Mid,Medium,3,14,1,Other,8
+1422,54,Female,Single,17328,Veteran,High,2,1,3,Medical,20
+1423,58,Female,Married,19701,Veteran,High,3,1,3,Medical,9
+1424,55,Male,Divorced,14732,Veteran,High,4,1,4,Medical,7
+1425,36,Female,Single,9278,Senior,Medium,3,3,4,Marketing,5
+1427,31,Female,Single,1359,Mid,Low,3,1,4,"Life Sciences",1
+1428,30,Female,Divorced,4779,Mid,Low,3,7,4,Marketing,3
+1430,31,Female,Single,16422,Mid,High,4,8,5,"Life Sciences",3
+1431,34,Male,Divorced,2996,Mid,Low,3,1,4,Other,4
+1433,31,Female,Single,1261,Mid,Low,4,8,3,"Life Sciences",1
+1434,27,Male,Married,2099,Mid,Low,4,11,1,"Life Sciences",5
+1435,36,Male,Single,5810,Senior,Medium,2,4,4,"Life Sciences",10
+1436,36,Female,Married,5647,Senior,Medium,2,16,4,Marketing,3
+1438,47,Male,Married,3420,Senior,Low,2,1,3,"Technical Degree",6
+1439,25,Male,Married,4400,Young,Low,3,9,2,"Life Sciences",3
+1440,37,Male,Single,3500,Senior,Low,1,5,2,"Technical Degree",6
+1441,56,Female,Married,2066,Veteran,Low,4,1,2,"Life Sciences",3
+1443,47,Female,Married,17169,Senior,High,4,2,4,Medical,20
+1445,24,Female,Married,4162,Young,Low,3,4,1,Medical,5
+1446,32,Male,Married,9204,Mid,Medium,2,7,5,Marketing,4
+1447,34,Female,Married,3294,Mid,Low,2,1,3,"Life Sciences",5
+1448,41,Male,Married,2127,Senior,Low,2,5,5,Medical,4
+1449,40,Male,Divorced,3975,Senior,Low,4,9,4,Other,8
+1453,31,Male,Divorced,10793,Mid,High,3,8,2,"Life Sciences",13
+1457,46,Male,Divorced,10096,Senior,High,4,9,3,Marketing,7
+1458,39,Female,Single,3646,Senior,Low,4,2,3,"Life Sciences",1
+1459,31,Female,Single,7446,Mid,Medium,3,1,5,"Life Sciences",10
+1460,45,Male,Divorced,10851,Senior,High,3,20,3,Medical,7
+1461,31,Female,Single,2109,Mid,Low,3,8,2,Medical,3
+1464,31,Male,Married,3722,Mid,Low,1,2,3,"Life Sciences",2
+1465,45,Male,Married,9380,Senior,Medium,4,29,3,"Technical Degree",3
+1466,48,Male,Divorced,5486,Senior,Medium,3,7,3,Marketing,2
+1467,34,Female,Married,2742,Mid,Low,3,9,4,"Technical Degree",2
+1468,40,Male,Divorced,13757,Senior,High,3,8,1,Medical,9
+1469,28,Male,Single,8463,Mid,Medium,3,5,3,Medical,5
+1471,44,Male,Single,3162,Senior,Low,3,5,3,"Life Sciences",5
+1472,53,Male,Single,16598,Veteran,High,2,2,3,Medical,9
+1473,49,Male,Married,6651,Senior,Medium,2,5,4,"Technical Degree",3
+1474,40,Male,Divorced,2345,Senior,Low,4,2,3,Medical,3
+1475,44,Male,Single,3420,Senior,Low,2,20,3,"Life Sciences",5
+1477,33,Male,Married,4373,Mid,Low,3,7,3,Medical,4
+1478,34,Male,Single,4759,Mid,Low,3,3,3,Other,13
+1479,30,Male,Married,5301,Mid,Medium,2,16,1,"Life Sciences",2
+1480,42,Female,Single,3673,Senior,Low,3,9,2,Medical,12
+1481,44,Female,Married,4768,Senior,Low,2,1,5,Marketing,1
+1482,30,Male,Divorced,1274,Mid,Low,2,7,3,"Technical Degree",1
+1483,57,Male,Married,4900,Veteran,Low,2,1,2,"Life Sciences",12
+1484,49,Male,Divorced,10466,Senior,High,3,7,4,"Life Sciences",8
+1485,34,Male,Divorced,17007,Mid,High,2,15,3,Medical,14
+1486,28,Male,Married,2909,Mid,Low,4,1,3,"Technical Degree",3
+1487,29,Female,Single,5765,Mid,Medium,1,13,3,"Technical Degree",5
+1489,34,Female,Single,4599,Mid,Low,4,24,4,Medical,15
+1492,35,Male,Married,2404,Mid,Low,3,7,1,"Life Sciences",1
+1494,24,Male,Single,3172,Young,Low,2,9,3,Medical,0
+1495,24,Female,Married,2033,Young,Low,3,13,2,"Life Sciences",1
+1496,44,Male,Single,10209,Senior,High,2,2,1,Medical,2
+1497,29,Male,Divorced,8620,Mid,Medium,3,19,3,"Life Sciences",10
+1499,30,Male,Divorced,2064,Mid,Low,4,1,3,"Life Sciences",5
+1501,55,Male,Married,4035,Veteran,Low,3,4,4,"Life Sciences",3
+1502,33,Female,Married,3838,Mid,Low,3,4,4,Medical,5
+1503,47,Female,Married,4591,Senior,Low,2,14,3,Medical,5
+1504,28,Male,Single,2561,Mid,Low,2,2,2,Medical,0
+1506,28,Male,Divorced,1563,Mid,Low,1,1,3,"Life Sciences",1
+1507,28,Male,Single,4898,Mid,Low,3,7,3,"Life Sciences",4
+1509,49,Female,Married,4789,Senior,Low,3,3,2,Medical,3
+1513,29,Female,Married,3180,Mid,Low,3,2,1,"Life Sciences",3
+1514,28,Male,Married,6549,Mid,Medium,2,29,1,"Life Sciences",8
+1515,33,Male,Single,6388,Mid,Medium,3,8,5,"Life Sciences",0
+1516,32,Male,Single,11244,Mid,High,4,10,3,Medical,5
+1520,54,Female,Divorced,16032,Veteran,High,3,11,4,Medical,14
+1522,29,Male,Single,2362,Mid,Low,1,1,4,"Technical Degree",9
+1523,44,Male,Married,16328,Senior,High,4,28,3,"Life Sciences",20
+1525,39,Female,Single,8376,Senior,Medium,3,6,3,"Life Sciences",2
+1527,46,Female,Married,16606,Senior,High,4,3,3,"Life Sciences",13
+1529,35,Female,Single,8606,Mid,Medium,1,16,3,"Life Sciences",11
+1533,23,Male,Single,2272,Young,Low,3,20,1,"Life Sciences",4
+1534,40,Male,Single,2018,Senior,Low,1,9,4,"Life Sciences",5
+1535,34,Male,Married,7083,Mid,Medium,3,1,3,"Technical Degree",10
+1537,31,Female,Single,4084,Mid,Low,1,3,3,"Life Sciences",7
+1539,50,Male,Single,14411,Senior,High,3,22,5,Medical,32
+1541,34,Male,Married,2308,Mid,Low,3,7,2,"Technical Degree",11
+1542,42,Male,Married,4841,Senior,Low,3,2,3,Medical,1
+1543,37,Male,Married,4285,Senior,Low,3,13,3,Medical,10
+1544,29,Female,Married,9715,Mid,Medium,3,8,1,Other,7
+1545,33,Male,Single,4320,Mid,Low,3,25,3,"Life Sciences",5
+1546,45,Male,Married,2132,Senior,Low,3,28,3,"Technical Degree",5
+1547,42,Male,Married,10124,Senior,High,1,2,3,"Life Sciences",20
+1548,40,Male,Married,5473,Senior,Medium,4,9,2,Medical,8
+1549,33,Male,Married,5207,Mid,Medium,3,28,4,"Life Sciences",15
+1550,40,Male,Single,16437,Senior,High,3,6,2,Medical,21
+1551,24,Male,Divorced,2296,Young,Low,3,21,2,"Technical Degree",1
+1552,40,Male,Divorced,4069,Senior,Low,3,8,2,"Life Sciences",2
+1553,45,Male,Divorced,7441,Senior,Medium,3,1,4,"Technical Degree",10
+1554,35,Female,Married,2430,Mid,Low,3,28,4,"Life Sciences",5
+1555,32,Female,Married,5878,Mid,Medium,3,5,2,"Life Sciences",7
+1556,36,Male,Single,2644,Senior,Low,2,2,4,"Life Sciences",3
+1557,48,Female,Divorced,6439,Senior,Medium,3,16,4,"Life Sciences",8
+1558,29,Male,Married,2451,Mid,Low,2,9,3,"Life Sciences",1
+1560,33,Male,Married,6392,Mid,Medium,1,8,4,"Life Sciences",2
+1562,30,Male,Married,9714,Mid,Medium,3,1,3,"Life Sciences",10
+1563,38,Male,Married,6077,Senior,Medium,3,10,4,"Human Resources",6
+1564,35,Male,Single,2450,Mid,Low,3,1,3,Medical,3
+1568,30,Male,Married,9250,Mid,Medium,3,29,4,"Technical Degree",4
+1569,35,Female,Divorced,2074,Mid,Low,3,2,3,"Life Sciences",1
+1572,53,Female,Married,10169,Veteran,High,3,2,5,"Technical Degree",33
+1573,38,Male,Married,4855,Senior,Low,3,2,3,Medical,5
+1574,32,Male,Married,4087,Mid,Low,2,1,4,"Technical Degree",6
+1576,48,Female,Married,2367,Senior,Low,2,15,4,Other,8
+1577,34,Male,Single,2972,Mid,Low,1,7,4,Medical,1
+1578,55,Male,Married,19586,Veteran,High,3,26,5,Marketing,36
+1580,34,Male,Married,5484,Mid,Medium,2,1,4,"Life Sciences",2
+1581,26,Female,Married,2061,Mid,Low,3,3,3,"Life Sciences",1
+1582,38,Male,Married,9924,Senior,Medium,3,14,3,"Life Sciences",9
+1583,38,Female,Single,4198,Senior,Low,4,16,3,"Life Sciences",3
+1585,36,Female,Single,6815,Senior,Medium,3,1,4,"Life Sciences",1
+1586,29,Male,Single,4723,Mid,Low,3,3,1,Medical,10
+1587,35,Female,Single,6142,Mid,Medium,3,10,4,Medical,5
+1588,39,Male,Married,8237,Senior,Medium,3,6,3,Medical,7
+1590,29,Male,Divorced,8853,Mid,Medium,4,2,1,"Life Sciences",6
+1591,50,Male,Married,19331,Senior,High,3,9,3,Marketing,1
+1592,23,Male,Married,2073,Young,Low,3,10,3,"Technical Degree",2
+1594,36,Male,Married,5562,Senior,Medium,3,6,4,"Life Sciences",3
+1595,42,Male,Single,19613,Senior,High,3,9,2,Other,1
+1596,35,Male,Married,3407,Mid,Low,2,28,3,"Life Sciences",10
+1597,34,Male,Married,5063,Mid,Medium,2,10,4,"Technical Degree",8
+1598,40,Female,Married,4639,Senior,Low,3,14,2,"Life Sciences",5
+1599,43,Male,Divorced,4876,Senior,Low,3,27,3,"Technical Degree",6
+1601,35,Male,Married,2690,Mid,Low,2,7,2,"Life Sciences",1
+1602,46,Male,Single,17567,Senior,High,1,1,4,"Life Sciences",26
+1604,28,Male,Married,2408,Mid,Low,3,24,3,Medical,1
+1605,22,Female,Married,2814,Young,Low,2,26,2,Other,4
+1606,50,Male,Married,11245,Senior,High,3,20,5,Medical,30
+1607,32,Female,Married,3312,Mid,Low,3,5,4,Other,3
+1608,44,Female,Divorced,19049,Senior,High,2,7,3,Medical,22
+1609,30,Male,Married,2141,Mid,Low,2,7,3,Medical,6
+1611,45,Female,Single,5769,Senior,Medium,3,5,5,Medical,10
+1612,45,Male,Married,4385,Senior,Low,3,26,3,Marketing,10
+1613,31,Male,Single,5332,Mid,Medium,3,2,4,Other,5
+1614,36,Female,Married,4663,Senior,Low,3,12,4,"Life Sciences",3
+1615,34,Male,Divorced,4724,Mid,Low,3,10,4,"Life Sciences",9
+1617,49,Female,Married,3211,Senior,Low,2,25,4,"Life Sciences",9
+1618,39,Male,Married,5377,Senior,Medium,3,10,5,Medical,7
+1619,27,Male,Divorced,4066,Mid,Low,3,19,3,Other,7
+1621,35,Male,Married,5208,Mid,Medium,3,18,5,"Life Sciences",16
+1622,28,Female,Divorced,4877,Mid,Low,2,27,3,Medical,5
+1623,21,Male,Single,3117,Young,Low,3,5,1,Medical,2
+1624,18,Female,Single,1569,Young,Low,4,3,2,Medical,0
+1625,47,Female,Married,19658,Senior,High,3,26,4,"Life Sciences",5
+1627,39,Male,Divorced,3069,Senior,Low,3,3,2,Medical,10
+1628,40,Female,Married,10435,Senior,High,3,15,3,"Life Sciences",18
+1630,35,Female,Married,4148,Mid,Low,3,8,4,"Life Sciences",14
+1631,37,Male,Married,5768,Senior,Medium,2,19,3,"Life Sciences",4
+1633,39,Female,Single,5042,Senior,Medium,1,4,3,Medical,9
+1635,45,Female,Divorced,5770,Senior,Medium,3,2,2,Other,10
+1638,38,Female,Married,7756,Senior,Medium,4,2,2,Medical,5
+1639,35,Male,Married,10306,Mid,High,3,10,3,Medical,13
+1640,37,Female,Married,3936,Senior,Low,1,10,3,Medical,8
+1641,40,Female,Single,7945,Senior,Medium,2,16,3,"Life Sciences",4
+1642,44,Male,Married,5743,Senior,Medium,3,1,5,"Human Resources",10
+1644,48,Male,Married,15202,Senior,High,3,4,5,Medical,2
+1645,35,Male,Divorced,5440,Mid,Medium,2,15,2,Medical,2
+1646,24,Female,Single,3760,Young,Low,3,2,1,"Technical Degree",6
+1647,27,Female,Married,3517,Mid,Low,3,8,3,Medical,3
+1648,27,Male,Single,2580,Mid,Low,2,2,3,Medical,4
+1649,40,Male,Single,2166,Senior,Low,1,7,3,"Life Sciences",4
+1650,29,Male,Single,5869,Mid,Medium,3,10,3,Medical,5
+1651,36,Female,Married,8008,Senior,Medium,3,5,4,"Life Sciences",3
+1653,25,Male,Divorced,5206,Young,Medium,3,2,1,"Life Sciences",7
+1654,39,Male,Married,5295,Senior,Medium,3,12,3,Medical,5
+1655,49,Female,Married,16413,Senior,High,3,22,4,Other,4
+1656,50,Female,Divorced,13269,Senior,High,3,17,5,"Life Sciences",14
+1657,20,Female,Single,2783,Young,Low,3,2,3,Medical,2
+1658,34,Female,Divorced,5433,Mid,Medium,3,3,3,"Life Sciences",11
+1659,36,Male,Single,2013,Senior,Low,3,7,3,"Life Sciences",4
+1661,49,Female,Married,13966,Senior,High,3,6,1,"Life Sciences",15
+1662,36,Female,Married,4374,Senior,Low,3,1,4,Medical,3
+1664,36,Male,Divorced,6842,Senior,Medium,3,3,2,"Life Sciences",5
+1665,54,Female,Married,17426,Veteran,High,3,22,5,Medical,10
+1666,43,Male,Married,17603,Senior,High,3,15,2,"Life Sciences",14
+1667,35,Male,Single,4581,Mid,Low,4,12,4,Other,11
+1668,38,Male,Married,4735,Senior,Low,4,1,3,"Life Sciences",13
+1669,29,Male,Divorced,4187,Mid,Low,2,5,3,Medical,10
+1670,33,Male,Divorced,5505,Mid,Medium,3,2,4,Medical,6
+1671,32,Male,Divorced,5470,Mid,Medium,2,2,3,Medical,9
+1673,31,Female,Married,5476,Mid,Medium,3,5,4,"Life Sciences",10
+1674,49,Female,Divorced,2587,Senior,Low,2,16,3,Medical,2
+1675,38,Female,Single,2440,Senior,Low,3,2,3,Medical,4
+1676,47,Female,Divorced,15972,Senior,High,3,2,4,"Life Sciences",3
+1677,49,Male,Single,15379,Senior,High,3,1,3,"Life Sciences",8
+1678,41,Male,Single,7082,Senior,Medium,3,23,2,"Life Sciences",2
+1680,20,Male,Single,2728,Young,Low,3,9,1,"Life Sciences",2
+1681,33,Female,Divorced,5368,Mid,Medium,3,16,3,"Life Sciences",6
+1682,36,Male,Married,5347,Senior,Medium,2,26,4,"Life Sciences",3
+1683,44,Female,Divorced,3195,Senior,Low,3,1,3,"Life Sciences",2
+1684,23,Male,Single,3989,Young,Low,3,8,1,Medical,5
+1687,38,Female,Married,3306,Senior,Low,2,4,2,Medical,0
+1689,53,Male,Married,7005,Veteran,Medium,3,24,4,Medical,4
+1691,48,Female,Married,2655,Senior,Low,3,7,2,Medical,9
+1692,32,Male,Single,1393,Mid,Low,3,2,4,"Life Sciences",1
+1693,26,Male,Single,2570,Mid,Low,3,7,3,Medical,7
+1694,55,Male,Divorced,3537,Veteran,Low,3,22,3,"Technical Degree",4
+1696,34,Male,Married,3986,Mid,Low,4,5,2,Medical,15
+1697,60,Male,Divorced,10883,Veteran,High,4,1,4,Medical,1
+1698,33,Male,Married,2028,Mid,Low,3,21,3,Medical,14
+1700,37,Male,Divorced,9525,Senior,Medium,2,1,4,Medical,6
+1701,34,Female,Married,2929,Mid,Low,3,19,3,"Life Sciences",10
+1702,23,Male,Divorced,2275,Young,Low,3,7,3,"Life Sciences",3
+1703,44,Female,Married,7879,Senior,Medium,3,2,3,"Life Sciences",8
+1704,35,Male,Single,4930,Mid,Low,4,2,4,Medical,5
+1706,43,Male,Married,7847,Senior,Medium,3,2,3,Medical,10
+1707,24,Male,Married,4401,Young,Low,3,9,3,Medical,5
+1708,41,Male,Single,9241,Senior,Medium,3,6,3,Marketing,10
+1709,29,Female,Married,2974,Mid,Low,3,9,4,Medical,5
+1710,36,Female,Single,4502,Senior,Low,2,2,4,"Life Sciences",13
+1712,45,Male,Married,10748,Senior,High,2,1,1,"Life Sciences",23
+1714,24,Male,Married,1555,Young,Low,3,22,1,"Human Resources",1
+1716,47,Male,Married,12936,Senior,High,1,9,3,"Life Sciences",23
+1718,26,Male,Married,2305,Mid,Low,4,17,4,Medical,3
+1719,45,Female,Single,16704,Senior,High,3,28,2,"Technical Degree",21
+1720,32,Male,Married,3433,Mid,Low,2,10,3,"Life Sciences",5
+1721,31,Male,Married,3477,Mid,Low,4,2,4,"Life Sciences",5
+1722,41,Male,Married,6430,Senior,Medium,3,4,3,"Human Resources",3
+1724,40,Female,Married,6516,Senior,Medium,3,8,2,"Life Sciences",1
+1725,24,Male,Divorced,3907,Young,Low,4,29,1,Medical,6
+1727,46,Male,Single,5562,Senior,Medium,3,13,4,"Life Sciences",10
+1728,35,Male,Married,6883,Mid,Medium,3,27,4,"Life Sciences",7
+1729,30,Male,Married,2862,Mid,Low,2,16,1,"Life Sciences",10
+1731,47,Male,Married,4978,Senior,Low,1,2,4,Marketing,1
+1732,46,Male,Divorced,10368,Senior,High,2,2,3,"Life Sciences",10
+1733,36,Male,Divorced,6134,Senior,Medium,3,13,5,Marketing,2
+1734,32,Male,Single,6735,Mid,Medium,3,1,2,"Life Sciences",0
+1735,23,Female,Single,3295,Young,Low,1,4,1,Medical,3
+1736,31,Female,Single,5238,Mid,Medium,2,24,1,"Technical Degree",5
+1737,39,Male,Married,6472,Senior,Medium,3,1,3,"Life Sciences",9
+1739,32,Male,Married,9610,Mid,Medium,1,19,3,"Life Sciences",4
+1740,40,Male,Single,19833,Senior,High,2,7,4,Medical,21
+1744,45,Female,Married,9756,Senior,Medium,4,4,3,"Life Sciences",5
+1745,30,Female,Single,4968,Mid,Low,3,2,4,"Technical Degree",9
+1746,24,Male,Married,2145,Young,Low,3,10,3,Medical,2
+1747,30,Female,Divorced,2180,Mid,Low,2,8,3,"Human Resources",4
+1749,31,Male,Married,8346,Mid,Medium,3,5,3,"Technical Degree",5
+1751,27,Female,Single,3445,Mid,Low,2,8,3,Medical,6
+1752,29,Female,Single,2760,Mid,Low,3,9,3,Marketing,2
+1753,29,Male,Single,6294,Mid,Medium,4,1,3,"Life Sciences",3
+1754,30,Male,Divorced,7140,Mid,Medium,3,15,2,Marketing,7
+1755,34,Male,Married,2932,Mid,Low,3,2,4,Medical,5
+1756,33,Female,Single,5147,Mid,Medium,2,2,3,Marketing,11
+1757,49,Female,Single,4507,Senior,Low,4,11,4,Marketing,5
+1758,33,Female,Single,8564,Mid,Medium,2,16,3,"Life Sciences",0
+1760,38,Female,Married,2468,Senior,Low,2,2,2,Medical,6
+1761,31,Male,Married,8161,Mid,Medium,3,16,4,Marketing,1
+1762,29,Female,Divorced,2109,Mid,Low,3,4,3,"Technical Degree",1
+1763,30,Male,Married,5294,Mid,Medium,3,16,3,"Life Sciences",7
+1764,32,Male,Single,2718,Mid,Low,3,5,4,"Technical Degree",7
+1766,38,Male,Married,5811,Senior,Medium,3,18,3,Medical,1
+1767,43,Male,Married,2437,Senior,Low,3,17,3,"Technical Degree",1
+1768,42,Male,Divorced,2766,Senior,Low,2,12,3,Medical,5
+1770,55,Male,Married,19038,Veteran,High,3,2,3,Medical,1
+1771,33,Male,Divorced,3055,Mid,Low,2,4,3,"Technical Degree",9
+1772,41,Male,Divorced,2289,Senior,Low,3,9,4,"Life Sciences",5
+1774,34,Male,Divorced,4001,Mid,Low,3,10,3,"Life Sciences",15
+1775,53,Female,Married,12965,Veteran,High,2,1,4,Medical,3
+1778,43,Male,Single,3539,Senior,Low,3,2,3,"Life Sciences",9
+1779,34,Female,Single,6029,Mid,Medium,3,3,2,"Life Sciences",2
+1780,21,Male,Single,2679,Young,Low,3,7,1,Marketing,1
+1782,38,Female,Married,3702,Senior,Low,3,6,2,Other,5
+1783,22,Female,Married,2398,Young,Low,3,8,1,Medical,1
+1784,31,Female,Married,5468,Mid,Medium,3,29,4,Marketing,12
+1786,51,Female,Married,13116,Veteran,High,3,3,3,"Technical Degree",2
+1787,37,Male,Married,4189,Senior,Low,3,9,2,Marketing,5
+1789,46,Male,Divorced,19328,Senior,High,3,2,4,Medical,2
+1790,36,Male,Married,8321,Senior,Medium,3,10,3,"Life Sciences",12
+1792,44,Male,Divorced,2342,Senior,Low,2,1,2,Medical,5
+1794,37,Male,Divorced,4071,Senior,Low,2,8,2,Other,10
+1797,35,Male,Single,5813,Mid,Medium,3,27,3,"Life Sciences",10
+1798,33,Male,Married,3143,Mid,Low,3,8,4,"Life Sciences",10
+1799,28,Male,Married,2044,Mid,Low,4,1,3,"Life Sciences",5
+1800,39,Male,Single,13464,Senior,High,3,10,1,Medical,4
+1801,46,Male,Single,7991,Senior,Medium,3,26,2,"Life Sciences",2
+1802,40,Female,Married,3377,Senior,Low,2,2,2,"Life Sciences",4
+1803,42,Male,Married,5538,Senior,Medium,2,13,3,Medical,0
+1804,35,Male,Divorced,5762,Mid,Medium,3,2,2,Medical,7
+1805,38,Male,Divorced,2592,Senior,Low,3,2,3,"Human Resources",11
+1807,34,Male,Married,5346,Mid,Medium,2,9,4,"Life Sciences",7
+1809,37,Male,Single,4213,Senior,Low,1,10,4,Medical,10
+1812,39,Male,Divorced,4127,Senior,Low,3,20,3,"Life Sciences",2
+1813,43,Male,Single,2438,Senior,Low,2,9,3,"Life Sciences",3
+1814,41,Male,Single,6870,Senior,Medium,1,5,3,"Life Sciences",3
+1815,41,Female,Divorced,10447,Senior,High,4,4,1,Marketing,22
+1816,30,Female,Single,9667,Mid,Medium,3,10,3,Medical,7
+1818,26,Female,Married,2148,Mid,Low,3,20,2,Medical,5
+1821,46,Female,Married,8926,Senior,Medium,4,21,2,Medical,9
+1822,40,Female,Divorced,6513,Senior,Medium,3,1,3,"Life Sciences",5
+1823,34,Male,Married,6799,Mid,Medium,3,8,2,"Technical Degree",10
+1824,58,Male,Divorced,16291,Veteran,High,2,2,3,Medical,16
+1826,35,Male,Married,2705,Mid,Low,4,23,4,Medical,5
+1827,47,Female,Divorced,10333,Senior,High,3,4,3,"Life Sciences",22
+1829,40,Female,Divorced,4448,Senior,Low,3,12,3,"Life Sciences",7
+1830,54,Female,Married,6854,Veteran,Medium,2,7,4,Medical,7
+1833,31,Female,Married,9637,Mid,Medium,3,7,4,Marketing,3
+1834,28,Female,Married,3591,Mid,Low,3,1,3,Medical,3
+1835,38,Female,Married,5405,Senior,Medium,2,2,4,Marketing,4
+1836,26,Male,Single,4684,Mid,Low,3,10,3,Medical,5
+1837,58,Male,Married,15787,Veteran,High,3,15,4,"Life Sciences",2
+1839,18,Female,Single,1514,Young,Low,1,14,3,Medical,0
+1842,31,Male,Married,2956,Mid,Low,3,18,5,"Human Resources",1
+1844,29,Male,Divorced,2335,Mid,Low,3,13,3,"Human Resources",2
+1845,45,Female,Married,5154,Senior,Medium,4,2,4,"Life Sciences",8
+1847,36,Female,Married,6962,Senior,Medium,3,2,4,Other,1
+1849,43,Male,Married,5675,Senior,Medium,3,2,4,"Life Sciences",7
+1850,27,Female,Single,2379,Mid,Low,2,5,2,"Life Sciences",5
+1852,29,Male,Married,3812,Mid,Low,4,20,1,Medical,11
+1853,32,Male,Single,4648,Mid,Low,4,10,4,Marketing,0
+1854,42,Male,Married,2936,Senior,Low,2,10,4,"Technical Degree",6
+1856,47,Female,Single,2105,Senior,Low,3,9,4,"Life Sciences",2
+1857,46,Male,Divorced,8578,Senior,Medium,2,2,2,"Life Sciences",9
+1858,28,Male,Divorced,2706,Mid,Low,3,1,2,"Life Sciences",3
+1859,29,Male,Divorced,6384,Mid,Medium,3,29,1,"Life Sciences",7
+1860,42,Male,Single,3968,Senior,Low,3,8,3,"Life Sciences",0
+1862,32,Male,Single,9907,Mid,Medium,2,2,4,Marketing,2
+1863,46,Female,Divorced,13225,Senior,High,3,3,3,"Technical Degree",19
+1864,27,Female,Married,3540,Mid,Low,3,23,1,Medical,9
+1865,29,Male,Married,2804,Mid,Low,3,6,1,Medical,1
+1866,43,Female,Married,19392,Senior,High,3,6,3,Medical,16
+1867,48,Male,Married,19665,Senior,High,3,10,3,"Life Sciences",22
+1868,29,Male,Single,2439,Mid,Low,2,24,2,"Life Sciences",1
+1869,46,Female,Married,7314,Senior,Medium,3,10,3,"Life Sciences",8
+1870,27,Female,Married,4774,Mid,Low,2,15,3,"Life Sciences",7
+1871,39,Male,Divorced,3902,Senior,Low,3,19,4,Other,2
+1873,55,Male,Married,2662,Veteran,Low,4,2,4,"Technical Degree",5
+1875,28,Female,Married,2856,Mid,Low,3,3,3,Medical,1
+1876,30,Male,Single,1081,Mid,Low,2,9,3,Medical,1
+1878,22,Male,Single,2472,Young,Low,3,7,1,"Life Sciences",1
+1880,36,Female,Married,5673,Senior,Medium,3,10,4,"Technical Degree",10
+1881,31,Male,Divorced,4197,Mid,Low,3,20,3,"Life Sciences",10
+1882,34,Male,Married,9713,Mid,Medium,3,4,3,"Life Sciences",5
+1883,29,Male,Single,2062,Mid,Low,3,7,3,"Life Sciences",3
+1885,37,Male,Married,4284,Senior,Low,3,7,4,Medical,5
+1886,35,Female,Married,4788,Mid,Low,3,16,2,Other,3
+1888,45,Female,Married,5906,Senior,Medium,2,25,2,"Life Sciences",9
+1890,36,Male,Single,3886,Senior,Low,2,2,1,"Human Resources",10
+1892,40,Male,Divorced,16823,Senior,High,3,1,4,"Life Sciences",19
+1893,26,Female,Married,2933,Mid,Low,2,1,2,"Life Sciences",1
+1898,27,Female,Single,6500,Mid,Medium,2,2,2,Medical,8
+1900,48,Female,Divorced,17174,Senior,High,3,22,3,Medical,22
+1903,44,Male,Married,5033,Senior,Medium,3,1,4,"Life Sciences",2
+1905,34,Male,Married,2307,Mid,Low,3,16,4,"Technical Degree",5
+1907,56,Male,Single,2587,Veteran,Low,3,24,2,"Life Sciences",4
+1908,36,Male,Married,5507,Senior,Medium,1,17,2,Marketing,4
+1909,41,Female,Married,4393,Senior,Low,3,8,3,Marketing,5
+1911,42,Male,Married,13348,Senior,High,4,6,3,Medical,13
+1912,31,Female,Divorced,6583,Mid,Medium,3,10,2,Medical,5
+1915,34,Female,Married,8103,Mid,Medium,2,3,1,Medical,4
+1916,31,Female,Divorced,3978,Mid,Low,2,4,3,Medical,2
+1918,26,Male,Married,2544,Mid,Low,3,6,3,Other,7
+1922,45,Male,Single,5399,Senior,Medium,3,1,4,Medical,4
+1924,33,Male,Single,5487,Mid,Medium,2,10,4,Marketing,10
+1927,28,Male,Married,6834,Mid,Medium,3,1,2,"Life Sciences",7
+1928,29,Male,Single,1091,Mid,Low,3,24,3,"Technical Degree",1
+1929,39,Female,Married,5736,Senior,Medium,3,21,4,"Life Sciences",3
+1931,27,Male,Married,2226,Mid,Low,2,2,4,"Technical Degree",5
+1932,34,Male,Married,5747,Mid,Medium,3,22,4,Other,15
+1933,28,Female,Single,9854,Mid,Medium,3,13,2,Marketing,2
+1934,47,Male,Married,5467,Senior,Medium,4,14,4,"Technical Degree",8
+1935,56,Female,Married,5380,Veteran,Medium,3,11,5,Marketing,0
+1936,39,Male,Married,5151,Senior,Medium,3,9,2,Medical,10
+1937,38,Female,Divorced,2133,Senior,Low,3,8,3,Medical,20
+1938,58,Female,Married,17875,Veteran,High,2,21,3,"Life Sciences",1
+1939,32,Female,Single,2432,Mid,Low,3,5,2,"Life Sciences",4
+1940,38,Male,Divorced,4771,Senior,Low,4,9,2,"Life Sciences",5
+1941,49,Male,Married,19161,Senior,High,3,2,1,"Life Sciences",5
+1943,42,Male,Divorced,5087,Senior,Medium,3,12,4,Marketing,0
+1944,27,Female,Married,2863,Mid,Low,3,22,3,"Human Resources",1
+1945,35,Male,Married,5561,Mid,Medium,1,18,4,Medical,5
+1947,28,Male,Single,2144,Mid,Low,2,16,3,Medical,5
+1948,31,Male,Divorced,3065,Mid,Low,4,3,2,Medical,4
+1949,36,Male,Married,2810,Senior,Low,3,9,4,"Life Sciences",5
+1950,34,Male,Single,9888,Mid,Medium,2,1,3,Marketing,14
+1951,34,Male,Divorced,8628,Mid,Medium,2,13,4,Medical,8
+1952,26,Male,Single,2867,Mid,Low,2,1,3,Medical,7
+1954,29,Male,Married,5373,Mid,Medium,2,1,3,"Life Sciences",5
+1955,32,Female,Divorced,6667,Mid,Medium,3,15,4,Medical,5
+1956,31,Male,Married,5003,Mid,Medium,3,1,3,"Life Sciences",10
+1960,28,Male,Divorced,2367,Mid,Low,2,17,3,"Technical Degree",4
+1961,38,Male,Single,2858,Senior,Low,2,1,3,"Life Sciences",1
+1962,35,Female,Married,5204,Mid,Medium,3,7,4,"Life Sciences",10
+1965,27,Male,Single,4105,Mid,Low,3,9,3,Marketing,7
+1966,32,Male,Single,9679,Mid,Medium,3,5,4,"Life Sciences",1
+1967,31,Male,Married,5617,Mid,Medium,3,26,4,Marketing,10
+1968,53,Male,Single,10448,Veteran,High,2,24,4,"Life Sciences",2
+1969,54,Female,Married,2897,Veteran,Low,2,9,2,"Life Sciences",4
+1970,33,Male,Divorced,5968,Mid,Medium,3,7,2,"Life Sciences",9
+1971,43,Male,Married,7510,Senior,Medium,3,11,3,"Life Sciences",10
+1972,38,Male,Married,2991,Senior,Low,3,1,4,Other,6
+1973,55,Male,Married,19636,Veteran,High,3,26,4,"Human Resources",10
+1974,31,Female,Divorced,1129,Mid,Low,3,2,1,Medical,1
+1975,39,Male,Single,13341,Senior,High,3,15,4,Marketing,20
+1976,42,Male,Single,4332,Senior,Low,3,23,2,"Life Sciences",20
+1979,31,Female,Married,11031,Mid,High,4,10,3,Medical,11
+1980,54,Female,Single,4440,Veteran,Low,3,10,3,Medical,5
+1981,24,Male,Single,4617,Young,Low,2,1,2,"Life Sciences",4
+1982,23,Male,Single,2647,Young,Low,4,12,2,Other,5
+1985,40,Female,Married,6323,Senior,Medium,4,11,3,"Technical Degree",10
+1986,40,Female,Married,5677,Senior,Medium,3,2,2,Marketing,11
+1987,25,Female,Married,2187,Young,Low,3,2,3,"Human Resources",2
+1989,30,Male,Married,3748,Mid,Low,2,1,2,Medical,12
+1992,25,Male,Divorced,3977,Young,Low,2,2,1,Other,2
+1993,47,Male,Single,8633,Senior,Medium,3,25,3,Medical,17
+1994,33,Male,Divorced,2008,Mid,Low,2,1,2,Medical,1
+1995,38,Male,Married,4440,Senior,Low,3,1,4,"Life Sciences",15
+1996,31,Male,Married,3067,Mid,Low,3,2,2,"Life Sciences",2
+1997,38,Male,Married,5321,Senior,Medium,3,6,4,"Life Sciences",8
+1998,42,Male,Divorced,5410,Senior,Medium,2,18,4,"Life Sciences",4
+1999,41,Male,Married,2782,Senior,Low,3,1,3,"Life Sciences",5
+2000,47,Female,Married,11957,Senior,High,1,1,1,Medical,13
+2003,35,Male,Married,2660,Mid,Low,3,11,4,Medical,2
+2007,22,Male,Single,3375,Young,Low,4,1,2,"Life Sciences",3
+2008,35,Male,Single,5098,Mid,Medium,3,9,4,Medical,10
+2009,33,Female,Married,4878,Mid,Low,3,15,2,Medical,9
+2010,32,Female,Single,2837,Mid,Low,3,29,4,"Life Sciences",6
+2012,40,Male,Married,2406,Senior,Low,2,1,4,"Life Sciences",1
+2013,32,Male,Married,2269,Mid,Low,3,1,4,Medical,2
+2014,39,Male,Single,4108,Senior,Low,3,24,1,"Life Sciences",7
+2015,38,Female,Married,13206,Senior,High,3,10,3,Medical,18
+2016,32,Female,Married,10422,Mid,High,3,1,4,Marketing,14
+2017,37,Female,Married,13744,Senior,High,3,10,3,"Life Sciences",16
+2018,25,Female,Divorced,4907,Young,Low,2,8,2,Other,5
+2019,52,Male,Divorced,3482,Veteran,Low,2,29,4,"Life Sciences",9
+2020,44,Male,Single,2436,Senior,Low,3,1,3,Medical,4
+2021,21,Male,Single,2380,Young,Low,3,5,1,Medical,2
+2022,39,Male,Single,19431,Senior,High,2,9,3,"Life Sciences",6
+2023,23,Male,Married,1790,Young,Low,2,9,3,Marketing,1
+2024,36,Female,Married,7644,Senior,Medium,3,3,3,Medical,9
+2025,36,Female,Divorced,5131,Senior,Medium,3,4,2,"Life Sciences",4
+2026,56,Male,Divorced,6306,Veteran,Medium,2,1,4,"Life Sciences",13
+2027,29,Male,Married,4787,Mid,Low,4,1,4,Medical,2
+2031,42,Male,Married,18880,Senior,High,2,2,3,"Life Sciences",22
+2032,56,Male,Married,2339,Veteran,Low,1,7,2,"Technical Degree",10
+2034,41,Female,Married,13570,Senior,High,3,28,4,"Life Sciences",20
+2035,34,Female,Married,6712,Mid,Medium,3,28,3,Marketing,8
+2036,36,Male,Divorced,5406,Senior,Medium,2,15,4,Marketing,15
+2037,41,Male,Divorced,8938,Senior,Medium,3,3,3,"Life Sciences",5
+2038,32,Male,Single,2439,Mid,Low,3,2,3,"Technical Degree",4
+2040,35,Female,Single,8837,Mid,Medium,3,26,4,"Life Sciences",9
+2041,38,Female,Married,5343,Senior,Medium,3,10,2,"Life Sciences",10
+2044,50,Male,Divorced,6728,Senior,Medium,3,1,4,"Life Sciences",6
+2045,36,Female,Married,6652,Senior,Medium,2,11,4,Marketing,6
+2046,45,Female,Single,4850,Senior,Low,3,20,3,"Life Sciences",5
+2048,40,Male,Single,2809,Senior,Low,3,2,4,"Life Sciences",2
+2049,35,Male,Married,5689,Mid,Medium,4,18,4,"Life Sciences",10
+2051,40,Female,Married,2001,Senior,Low,3,2,4,Medical,5
+2052,35,Female,Married,2977,Mid,Low,3,1,4,"Life Sciences",4
+2053,29,Male,Married,4025,Mid,Low,3,13,2,Other,4
+2054,29,Female,Single,3785,Mid,Low,1,28,4,Medical,5
+2055,50,Male,Divorced,10854,Senior,High,3,28,3,Marketing,3
+2056,39,Female,Married,12031,Senior,High,2,24,1,Marketing,20
+2057,31,Male,Single,9936,Mid,Medium,3,5,3,Medical,9
+2060,26,Female,Single,2966,Mid,Low,3,5,3,Other,4
+2061,36,Male,Married,2571,Senior,Low,3,23,2,Medical,5
+2062,39,Male,Married,9991,Senior,Medium,3,6,1,Medical,7
+2064,27,Male,Married,6142,Mid,Medium,3,4,3,"Life Sciences",6
+2065,49,Male,Married,5390,Senior,Medium,2,2,3,Medical,9
+2068,34,Male,Married,4404,Mid,Low,4,8,3,Medical,4

@@ -1,0 +1,6 @@
+Attrition Rate = 
+DIVIDE(
+    [Exit Employees],
+    [Total Employees],
+    0
+)

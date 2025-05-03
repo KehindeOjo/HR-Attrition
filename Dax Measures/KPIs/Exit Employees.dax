@@ -1,0 +1,5 @@
+Exit Employees = 
+CALCULATE(
+    COUNT(Employee[EmployeeID]),
+    Employee[Attrition] = "Yes"
+)

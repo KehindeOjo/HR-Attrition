@@ -11,21 +11,25 @@ To identify key drivers of employee attrition and support HR decision-making thr
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
+
+![Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![DAX Badge](https://img.shields.io/badge/DAX-0078D7?style=for-the-badge&logo=azure-data-explorer&logoColor=white)
 
 - **Excel** – Data cleaning & preprocessing  
-- **MySQL** – Exploratory data analysis & querying  
-- **Power BI** – Dashboard development & visualization
+- **Power BI** – Dashboard development & visualization  
+- **DAX** – Custom KPIs, calculated measures, and data modeling
 
 ---
 
 ## Key Insights
 
-- Overall attrition rate: **16.12%**
-- The **Sales** department has the highest attrition
-- Employees earning less than **$5,000/month** are more likely to leave
-- **Overtime** workers are twice as likely to exit
-- Low **job satisfaction** and **longer commute distances** also influence attrition
+- Overall attrition rate: **16.12%**  
+- The **Sales** department has the highest attrition  
+- Employees earning less than **$5,000/month** are more likely to leave  
+- **Overtime** workers are twice as likely to exit  
+- Low **job satisfaction** and **longer commute distances** also influence attrition  
 
 ---
 
@@ -34,14 +38,14 @@ To identify key drivers of employee attrition and support HR decision-making thr
 - **KPI Cards**: Total Employees, Attrition Rate, Avg. Monthly Income  
 - **Visuals**: Bar charts, donut chart, line chart  
 - **Filters**: Department, Gender, Age Group, Income Bracket  
-- **Tooltips**: Contextual insights on hover
+- **Tooltips**: Contextual insights on hover  
 
 ---
 
 ## How to Use
 
-1. Open the Power BI dashboard file (`.pbix`) or access the published report if hosted online.
-2. Use the slicers to filter by demographic or departmental factors.
+1. Open the Power BI dashboard file (`.pbix`) or access the published report if hosted online.  
+2. Use the slicers to filter by demographic or departmental factors.  
 3. Hover over visuals for detailed tooltips and interactions.
 
 ---
@@ -49,7 +53,6 @@ To identify key drivers of employee attrition and support HR decision-making thr
 ## Deliverables
 
 - Excel file  
-- MySQL Queries  
 - Power BI (`.pbix`) file  
 - DAX Measures folder  
 - Dashboard image/screenshots  
@@ -57,8 +60,8 @@ To identify key drivers of employee attrition and support HR decision-making thr
 
 ---
 
-## Author
+## 👨‍💼 Author
 
 **Kehinde Ojo**  
 Financial & Data Analyst  
-[LinkedIn Profile](https://www.linkedin.com/in/kehinde-ojo-86b61b124)
+[LinkedIn Profile](https://www.linkedin.com/in/kehindeojo-analyst)
